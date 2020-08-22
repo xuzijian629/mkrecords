@@ -1,4 +1,5 @@
 import fetch_records
+import datetime
 
 def to_sec(s):
     return int(s[0]) * 60 + int(s[2:4]) + int(s[5:]) / 1000
@@ -22,13 +23,15 @@ for i in range(48):
 
 def to_str(sec):
     sec = int(sec * 1000)
-    return '{}\'{}"{}'.format(sec // 1000 // 60, sec // 1000 % 60, sec % 1000)
+    return '{}\'{:02d}"{:03d}'.format(sec // 1000 // 60, sec // 1000 % 60, sec % 1000)
 
 def make_markdown_table(data):
     ret = '|コース名|自己記録|WRとの差|\n'
     ret += '|--|--|--|\n'
     for t in data:
-        ret += '|{}|{}|{:.3f}|\n'.format(t[0], to_str(t[1]), t[1] - t[2])
+        ret += '|{}|{}|{:.3f}|\n'.format(t[0], to_str(t[2]), t[1] - t[2])
+    ret += '\n'
+    ret += 'Last updated: {}\n'.format(datetime.date.today())
     return ret
 
 def format_summary(data):
