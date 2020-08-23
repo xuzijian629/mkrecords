@@ -13,6 +13,7 @@
 |Water Park|1'46"723|+5.932||
 
 ゴースト: 1101-6752-0152
+
 Last updated: 2020-08-23
 
 [全記録](https://github.com/xuzijian629/xuzijian629/blob/master/ALL.md)
