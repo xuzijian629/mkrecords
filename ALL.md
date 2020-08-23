@@ -40,6 +40,7 @@
 |Ice Ice Outpost|1'55"372|+8.730||
 |Bowser's Castle|2'08"946|+9.109||
 |Wii Grumble Volcano|2'03"673|+9.289||
+|GCN Sherbet Land|1'57"632|+9.437|2020-08-24|
 |DS Tick-Tock Clock|1'53"442|+9.653||
 |3DS Music Park|2'02"086|+9.713|2020-08-24|
 |3DS Neo Bowser City|1'53"148|+9.767||
@@ -47,8 +48,8 @@
 |SNES Donut Plains 3|1'25"215|+11.283||
 |Dragon Driftway|1'52"253|+11.450||
 |Bone-Dry Dunes|2'00"118|+11.831||
-|GCN Sherbet Land|2'00"479|+12.284||
 |GBA Cheese Land|1'56"813|+12.512||
 |GCN Dry Dry Desert|2'07"904|+13.725||
 
 Last updated: 2020-08-23
+ゴースト: 1101-6752-0152
