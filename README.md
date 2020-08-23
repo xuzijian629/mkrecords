@@ -1,16 +1,16 @@
 # TA記録（6秒落ち以内）
 
-|コース名|自己記録|WRとの差|日付
-|--|--|--|--|
-|N64 Rainbow Road|1'23"350|+3.168|2020-08-23|
-|Big Blue|1'27"416|+3.566||
-|Mario Circuit|1'49"531|+3.795||
-|Wii Moo Moo Meadows|1'29"691|+4.700||
-|Sunshine Airport|2'04"031|+5.178|2020-08-23|
-|DS Cheep Cheep Beach|1'54"136|+5.560||
-|GBA Mario Circuit|1'29"827|+5.679||
-|Mario Kart Stadium|1'43"315|+5.800||
-|Water Park|1'46"723|+5.932||
+||コース名|自己記録|WRとの差|日付
+|--|--|--|--|--|
+|1|N64 Rainbow Road|1'23"350|+3.168|2020-08-23|
+|2|Big Blue|1'27"416|+3.566||
+|3|Mario Circuit|1'49"531|+3.795||
+|4|Wii Moo Moo Meadows|1'29"691|+4.700||
+|5|Sunshine Airport|2'04"031|+5.178|2020-08-23|
+|6|DS Cheep Cheep Beach|1'54"136|+5.560||
+|7|GBA Mario Circuit|1'29"827|+5.679||
+|8|Mario Kart Stadium|1'43"315|+5.800||
+|9|Water Park|1'46"723|+5.932||
 
 ゴースト: 1101-6752-0152
 

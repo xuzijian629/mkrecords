@@ -26,10 +26,12 @@ def to_str(sec):
     return '{}\'{:02d}"{:03d}'.format(sec // 1000 // 60, sec // 1000 % 60, sec % 1000)
 
 def make_markdown_table(data):
-    ret = '|コース名|自己記録|WRとの差|日付\n'
-    ret += '|--|--|--|--|\n'
+    ret = '||コース名|自己記録|WRとの差|日付\n'
+    ret += '|--|--|--|--|--|\n'
+    idx = 1
     for t in data:
-        ret += '|{}|{}|+{:.3f}|{}|\n'.format(t[0], to_str(t[2]), t[2] - t[1], t[3])
+        ret += '|{}|{}|{}|+{:.3f}|{}|\n'.format(idx, t[0], to_str(t[2]), t[2] - t[1], t[3])
+        idx += 1
     ret += '\n'
     ret += 'ゴースト: 1101-6752-0152\n\n'
     ret += 'Last updated: {}\n'.format(datetime.date.today())
