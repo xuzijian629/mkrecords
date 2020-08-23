@@ -32,6 +32,7 @@ def make_markdown_table(data):
         ret += '|{}|{}|+{:.3f}|{}|\n'.format(t[0], to_str(t[2]), t[2] - t[1], t[3])
     ret += '\n'
     ret += 'Last updated: {}\n'.format(datetime.date.today())
+    ret += 'ゴースト: 1101-6752-0152\n'
     return ret
 
 def format_summary(data):
