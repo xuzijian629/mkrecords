@@ -19,7 +19,7 @@ GBA Mario Circuit: 1'29"827
 DS Cheep Cheep Beach: 1'54"136
 N64 Toad's Turnpike: 1'52"571
 GCN Dry Dry Desert: 2'07"904
-SNES Donut Plains 3: 1'24"795: 2020-08-23
+SNES Donut Plains 3: 1'23"657: 2020-08-23
 N64 Royal Raceway: 2'03"840
 3DS DK Jungle: 2'08"224
 DS Wario Stadium: 1'58"852
