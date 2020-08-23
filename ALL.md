@@ -39,6 +39,7 @@
 |Wii Wario's Gold Mine|2'10"995|+8.342||
 |Ice Ice Outpost|1'55"372|+8.730||
 |Bowser's Castle|2'08"946|+9.109||
+|Bone-Dry Dunes|1'57"440|+9.153|2020-08-23|
 |Wii Grumble Volcano|2'03"673|+9.289||
 |GCN Sherbet Land|1'57"632|+9.437|2020-08-23|
 |DS Tick-Tock Clock|1'53"442|+9.653||
@@ -47,7 +48,6 @@
 |3DS Neo Bowser City|1'53"148|+9.767||
 |Shy Guy Falls|2'06"710|+9.988||
 |Dragon Driftway|1'52"253|+11.450||
-|Bone-Dry Dunes|2'00"118|+11.831||
 |GBA Cheese Land|1'56"813|+12.512||
 |GCN Dry Dry Desert|2'07"904|+13.725||
 
