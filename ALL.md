@@ -40,15 +40,15 @@
 |36|Ice Ice Outpost|1'55"372|+8.730||
 |37|Bowser's Castle|2'08"946|+9.109||
 |38|Bone-Dry Dunes|1'57"440|+9.153|2020-08-23|
-|39|Wii Grumble Volcano|2'03"673|+9.289||
-|40|GCN Sherbet Land|1'57"632|+9.437|2020-08-23|
-|41|DS Tick-Tock Clock|1'53"442|+9.653||
-|42|3DS Music Park|2'02"086|+9.713|2020-08-23|
-|43|SNES Donut Plains 3|1'23"657|+9.725|2020-08-23|
-|44|3DS Neo Bowser City|1'53"148|+9.767||
-|45|Shy Guy Falls|2'06"710|+9.988||
-|46|Dragon Driftway|1'51"621|+10.818|2020-08-23|
-|47|GBA Cheese Land|1'56"813|+12.512||
+|39|GBA Cheese Land|1'53"545|+9.244|2020-08-23|
+|40|Wii Grumble Volcano|2'03"673|+9.289||
+|41|GCN Sherbet Land|1'57"632|+9.437|2020-08-23|
+|42|DS Tick-Tock Clock|1'53"442|+9.653||
+|43|3DS Music Park|2'02"086|+9.713|2020-08-23|
+|44|SNES Donut Plains 3|1'23"657|+9.725|2020-08-23|
+|45|3DS Neo Bowser City|1'53"148|+9.767||
+|46|Shy Guy Falls|2'06"710|+9.988||
+|47|Dragon Driftway|1'51"621|+10.818|2020-08-23|
 |48|GCN Dry Dry Desert|2'07"904|+13.725||
 
 ゴースト: 1101-6752-0152
