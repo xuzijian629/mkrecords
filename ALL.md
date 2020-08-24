@@ -13,25 +13,25 @@
 |9|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
 |10|Mario Kart Stadium|1'43"315|+5.800||
 |11|Water Park|1'46"723|+5.932||
-|12|N64 Toad's Turnpike|1'52"571|+6.152||
-|13|Sweet Sweet Canyon|1'55"374|+6.176||
-|14|Rainbow Road|2'06"034|+6.208||
-|15|GCN Baby Park|1'08"549|+6.311||
-|16|3DS DK Jungle|2'08"223|+6.465||
-|17|Toad Harbor|2'09"696|+6.478||
-|18|Mount Wario|1'49"066|+6.483||
-|19|Wild Woods|1'54"040|+6.600||
-|20|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
-|21|DS Wario Stadium|1'58"852|+7.062||
-|22|Animal Crossing|1'44"833|+7.092||
-|23|Dolphin Shoals|2'02"478|+7.127||
-|24|GCN Yoshi Circuit|1'50"441|+7.298||
-|25|Super Bell Subway|1'48"782|+7.337||
-|26|Mute City|1'58"666|+7.388||
-|27|Cloudtop Cruise|2'08"054|+7.480||
-|28|GBA Ribbon Road|1'53"450|+7.619||
-|29|SNES Rainbow Road|1'34"223|+7.728||
-|30|Thwomp Ruins|1'58"717|+7.778||
+|12|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
+|13|N64 Toad's Turnpike|1'52"571|+6.152||
+|14|Sweet Sweet Canyon|1'55"374|+6.176||
+|15|Rainbow Road|2'06"034|+6.208||
+|16|GCN Baby Park|1'08"549|+6.311||
+|17|3DS DK Jungle|2'08"223|+6.465||
+|18|Toad Harbor|2'09"696|+6.478||
+|19|Mount Wario|1'49"066|+6.483||
+|20|Wild Woods|1'54"040|+6.600||
+|21|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
+|22|DS Wario Stadium|1'58"852|+7.062||
+|23|Animal Crossing|1'44"833|+7.092||
+|24|Dolphin Shoals|2'02"478|+7.127||
+|25|GCN Yoshi Circuit|1'50"441|+7.298||
+|26|Super Bell Subway|1'48"782|+7.337||
+|27|Mute City|1'58"666|+7.388||
+|28|Cloudtop Cruise|2'08"054|+7.480||
+|29|GBA Ribbon Road|1'53"450|+7.619||
+|30|SNES Rainbow Road|1'34"223|+7.728||
 |31|Electrodrome|2'04"613|+7.782||
 |32|N64 Royal Raceway|2'03"840|+7.881||
 |33|3DS Piranha Plant Slide|2'08"126|+8.211||
