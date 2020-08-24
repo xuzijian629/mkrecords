@@ -10,9 +10,9 @@
 |6|Sunshine Airport|2'04"031|+5.178|2020-08-23|
 |7|DS Cheep Cheep Beach|1'54"136|+5.560||
 |8|GBA Mario Circuit|1'29"827|+5.679||
-|9|Mario Kart Stadium|1'43"315|+5.800||
-|10|Water Park|1'46"723|+5.932||
-|11|Wii Wario's Gold Mine|2'08"788|+6.135|2020-08-24|
+|9|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
+|10|Mario Kart Stadium|1'43"315|+5.800||
+|11|Water Park|1'46"723|+5.932||
 |12|N64 Toad's Turnpike|1'52"571|+6.152||
 |13|Sweet Sweet Canyon|1'55"374|+6.176||
 |14|Rainbow Road|2'06"034|+6.208||

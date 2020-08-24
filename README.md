@@ -10,8 +10,9 @@
 |6|Sunshine Airport|2'04"031|+5.178|2020-08-23|
 |7|DS Cheep Cheep Beach|1'54"136|+5.560||
 |8|GBA Mario Circuit|1'29"827|+5.679||
-|9|Mario Kart Stadium|1'43"315|+5.800||
-|10|Water Park|1'46"723|+5.932||
+|9|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
+|10|Mario Kart Stadium|1'43"315|+5.800||
+|11|Water Park|1'46"723|+5.932||
 
 ゴースト: 1101-6752-0152
 
