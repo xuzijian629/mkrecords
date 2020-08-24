@@ -6,8 +6,8 @@
 |2|Big Blue|1'27"416|+3.566||
 |3|Mario Circuit|1'49"531|+3.795||
 |4|Wii Moo Moo Meadows|1'29"691|+4.700||
-|5|Sunshine Airport|2'04"031|+5.178|2020-08-23|
-|6|N64 Yoshi Valley|2'04"587|+5.461|2020-08-23|
+|5|N64 Yoshi Valley|2'03"905|+4.779|2020-08-24|
+|6|Sunshine Airport|2'04"031|+5.178|2020-08-23|
 |7|DS Cheep Cheep Beach|1'54"136|+5.560||
 |8|GBA Mario Circuit|1'29"827|+5.679||
 |9|Mario Kart Stadium|1'43"315|+5.800||
@@ -25,9 +25,9 @@
 |21|Animal Crossing|1'44"833|+7.092||
 |22|Dolphin Shoals|2'02"478|+7.127||
 |23|GCN Yoshi Circuit|1'50"441|+7.298||
-|24|Cloudtop Cruise|2'08"054|+7.323||
-|25|Super Bell Subway|1'48"782|+7.337||
-|26|Mute City|1'58"666|+7.388||
+|24|Super Bell Subway|1'48"782|+7.337||
+|25|Mute City|1'58"666|+7.388||
+|26|Cloudtop Cruise|2'08"054|+7.480||
 |27|GBA Ribbon Road|1'53"450|+7.619||
 |28|SNES Rainbow Road|1'34"223|+7.728||
 |29|Thwomp Ruins|1'58"717|+7.778||
@@ -53,4 +53,4 @@
 
 ゴースト: 1101-6752-0152
 
-Last updated: 2020-08-23
+Last updated: 2020-08-24
