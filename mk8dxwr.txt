@@ -25,7 +25,7 @@ N64 Royal Raceway: 1'55"959
 DS Wario Stadium: 1'51"790
 GCN Sherbet Land: 1'48"195
 3DS Music Park: 1'52"373
-N64 Yoshi Valley: 1'59"126
+N64 Yoshi Valley: 1'59"116
 DS Tick-Tock Clock: 1'43"789
 3DS Piranha Plant Slide: 1'59"915
 Wii Grumble Volcano: 1'54"384
@@ -44,5 +44,5 @@ Wild Woods: 1'47"440
 Animal Crossing: 1'37"741
 3DS Neo Bowser City: 1'43"381
 GBA Ribbon Road: 1'45"831
-Super Bell Subway: 1'41"445
+Super Bell Subway: 1'41"402
 Big Blue: 1'23"850

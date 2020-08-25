@@ -6,7 +6,7 @@
 |2|Big Blue|1'27"416|+3.566||
 |3|Mario Circuit|1'49"531|+3.795||
 |4|Wii Moo Moo Meadows|1'29"691|+4.700||
-|5|N64 Yoshi Valley|2'03"905|+4.779|2020-08-24|
+|5|N64 Yoshi Valley|2'03"905|+4.789|2020-08-24|
 |6|Sunshine Airport|2'04"031|+5.178|2020-08-23|
 |7|DS Cheep Cheep Beach|1'54"136|+5.560||
 |8|GBA Mario Circuit|1'29"827|+5.679||
@@ -23,21 +23,21 @@
 |19|Mount Wario|1'49"066|+6.483||
 |20|Wild Woods|1'54"040|+6.600||
 |21|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
-|22|DS Wario Stadium|1'58"852|+7.062||
-|23|Animal Crossing|1'44"833|+7.092||
-|24|Dolphin Shoals|2'02"478|+7.127||
-|25|GCN Yoshi Circuit|1'50"441|+7.298||
-|26|Super Bell Subway|1'48"782|+7.337||
-|27|Mute City|1'58"666|+7.388||
-|28|Cloudtop Cruise|2'08"054|+7.480||
-|29|GBA Ribbon Road|1'53"450|+7.619||
-|30|SNES Rainbow Road|1'34"223|+7.728||
-|31|Electrodrome|2'04"613|+7.782||
-|32|N64 Royal Raceway|2'03"840|+7.881||
-|33|3DS Piranha Plant Slide|2'08"126|+8.211||
-|34|Excitebike Arena|1'49"232|+8.267||
-|35|Twisted Mansion|2'03"575|+8.305||
-|36|Ice Ice Outpost|1'55"372|+8.730||
+|22|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
+|23|DS Wario Stadium|1'58"852|+7.062||
+|24|Animal Crossing|1'44"833|+7.092||
+|25|Dolphin Shoals|2'02"478|+7.127||
+|26|GCN Yoshi Circuit|1'50"441|+7.298||
+|27|Super Bell Subway|1'48"782|+7.380||
+|28|Mute City|1'58"666|+7.388||
+|29|Cloudtop Cruise|2'08"054|+7.480||
+|30|GBA Ribbon Road|1'53"450|+7.619||
+|31|SNES Rainbow Road|1'34"223|+7.728||
+|32|Electrodrome|2'04"613|+7.782||
+|33|N64 Royal Raceway|2'03"840|+7.881||
+|34|3DS Piranha Plant Slide|2'08"126|+8.211||
+|35|Excitebike Arena|1'49"232|+8.267||
+|36|Twisted Mansion|2'03"575|+8.305||
 |37|Bowser's Castle|2'08"946|+9.109||
 |38|Bone-Dry Dunes|1'57"440|+9.153|2020-08-23|
 |39|GBA Cheese Land|1'53"545|+9.244|2020-08-23|
@@ -53,4 +53,4 @@
 
 ゴースト: 1101-6752-0152
 
-Last updated: 2020-08-24
+Last updated: 2020-08-25
