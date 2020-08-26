@@ -8,12 +8,13 @@
 |4|Wii Moo Moo Meadows|1'29"691|+4.700||
 |5|N64 Yoshi Valley|2'03"905|+4.873|2020-08-24|
 |6|Sunshine Airport|2'04"031|+5.178|2020-08-23|
-|7|DS Cheep Cheep Beach|1'54"136|+5.560||
-|8|GBA Mario Circuit|1'29"827|+5.679||
-|9|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
-|10|Mario Kart Stadium|1'43"315|+5.800||
-|11|Water Park|1'46"723|+5.932||
-|12|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
+|7|Twisted Mansion|2'00"667|+5.397|2020-08-26|
+|8|DS Cheep Cheep Beach|1'54"136|+5.560||
+|9|GBA Mario Circuit|1'29"827|+5.679||
+|10|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
+|11|Mario Kart Stadium|1'43"315|+5.800||
+|12|Water Park|1'46"723|+5.932||
+|13|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
 
 ゴースト: 1101-6752-0152
 
