@@ -15,9 +15,9 @@
 |11|Mario Kart Stadium|1'43"315|+5.800||
 |12|Water Park|1'46"723|+5.932||
 |13|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
-|14|N64 Toad's Turnpike|1'52"571|+6.152||
-|15|Sweet Sweet Canyon|1'55"374|+6.176||
-|16|DS Wario Stadium|1'57"970|+6.180|2020-08-26|
+|14|DS Wario Stadium|1'57"849|+6.059|2020-08-26|
+|15|N64 Toad's Turnpike|1'52"571|+6.152||
+|16|Sweet Sweet Canyon|1'55"374|+6.176||
 |17|Rainbow Road|2'06"034|+6.208||
 |18|GCN Baby Park|1'08"549|+6.311||
 |19|3DS DK Jungle|2'08"223|+6.465||
