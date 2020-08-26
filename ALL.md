@@ -21,13 +21,13 @@
 |17|3DS DK Jungle|2'08"223|+6.465||
 |18|Toad Harbor|2'09"696|+6.478||
 |19|Mount Wario|1'49"066|+6.483||
-|20|Wild Woods|1'54"040|+6.600||
-|21|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
-|22|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
-|23|DS Wario Stadium|1'58"852|+7.062||
-|24|Animal Crossing|1'44"833|+7.092||
-|25|Dolphin Shoals|2'02"478|+7.127||
-|26|Twisted Mansion|2'02"459|+7.189|2020-08-26|
+|20|Twisted Mansion|2'01"805|+6.535|2020-08-26|
+|21|Wild Woods|1'54"040|+6.600||
+|22|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
+|23|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
+|24|DS Wario Stadium|1'58"852|+7.062||
+|25|Animal Crossing|1'44"833|+7.092||
+|26|Dolphin Shoals|2'02"478|+7.127||
 |27|GCN Yoshi Circuit|1'50"441|+7.298||
 |28|Super Bell Subway|1'48"782|+7.380||
 |29|Mute City|1'58"666|+7.388||
