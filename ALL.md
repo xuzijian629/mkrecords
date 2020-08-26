@@ -14,12 +14,12 @@
 |10|Mario Kart Stadium|1'43"315|+5.800||
 |11|Water Park|1'46"723|+5.932||
 |12|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
-|13|N64 Toad's Turnpike|1'52"571|+6.152||
-|14|Sweet Sweet Canyon|1'55"374|+6.176||
-|15|Rainbow Road|2'06"034|+6.208||
-|16|GCN Baby Park|1'08"549|+6.311||
-|17|3DS DK Jungle|2'08"223|+6.465||
-|18|Twisted Mansion|2'01"743|+6.473|2020-08-26|
+|13|Twisted Mansion|2'01"403|+6.133|2020-08-26|
+|14|N64 Toad's Turnpike|1'52"571|+6.152||
+|15|Sweet Sweet Canyon|1'55"374|+6.176||
+|16|Rainbow Road|2'06"034|+6.208||
+|17|GCN Baby Park|1'08"549|+6.311||
+|18|3DS DK Jungle|2'08"223|+6.465||
 |19|Toad Harbor|2'09"696|+6.478||
 |20|Mount Wario|1'49"066|+6.483||
 |21|Wild Woods|1'54"040|+6.600||
