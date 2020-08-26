@@ -6,7 +6,7 @@
 |2|Big Blue|1'27"416|+3.650||
 |3|Mario Circuit|1'49"531|+3.795||
 |4|Wii Moo Moo Meadows|1'29"691|+4.700||
-|5|N64 Yoshi Valley|2'03"905|+4.873|2020-08-24|
+|5|N64 Yoshi Valley|2'03"905|+4.945|2020-08-24|
 |6|Sunshine Airport|2'04"031|+5.178|2020-08-23|
 |7|Twisted Mansion|2'00"667|+5.397|2020-08-26|
 |8|DS Cheep Cheep Beach|1'54"136|+5.560||
@@ -49,7 +49,7 @@
 |45|SNES Donut Plains 3|1'23"657|+9.725|2020-08-23|
 |46|Dragon Driftway|1'50"654|+9.851|2020-08-26|
 |47|Shy Guy Falls|2'06"710|+9.988||
-|48|GCN Dry Dry Desert|2'07"904|+13.725||
+|48|GCN Dry Dry Desert|2'06"568|+12.389|2020-08-26|
 
 ゴースト: 1101-6752-0152
 
