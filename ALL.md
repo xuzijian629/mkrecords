@@ -17,15 +17,15 @@
 |13|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
 |14|N64 Toad's Turnpike|1'52"571|+6.152||
 |15|Sweet Sweet Canyon|1'55"374|+6.176||
-|16|Rainbow Road|2'06"034|+6.208||
-|17|GCN Baby Park|1'08"549|+6.311||
-|18|3DS DK Jungle|2'08"223|+6.465||
-|19|Toad Harbor|2'09"696|+6.478||
-|20|Mount Wario|1'49"066|+6.483||
-|21|Wild Woods|1'54"040|+6.600||
-|22|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
-|23|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
-|24|DS Wario Stadium|1'58"852|+7.062||
+|16|DS Wario Stadium|1'57"970|+6.180|2020-08-26|
+|17|Rainbow Road|2'06"034|+6.208||
+|18|GCN Baby Park|1'08"549|+6.311||
+|19|3DS DK Jungle|2'08"223|+6.465||
+|20|Toad Harbor|2'09"696|+6.478||
+|21|Mount Wario|1'49"066|+6.483||
+|22|Wild Woods|1'54"040|+6.600||
+|23|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
+|24|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
 |25|Animal Crossing|1'44"833|+7.092||
 |26|Dolphin Shoals|2'02"478|+7.127||
 |27|GCN Yoshi Circuit|1'50"441|+7.298||
