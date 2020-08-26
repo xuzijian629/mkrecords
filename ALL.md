@@ -3,10 +3,10 @@
 ||コース名|自己記録|WRとの差|日付
 |--|--|--|--|--|
 |1|N64 Rainbow Road|1'23"350|+3.168|2020-08-23|
-|2|Big Blue|1'27"416|+3.566||
+|2|Big Blue|1'27"416|+3.650||
 |3|Mario Circuit|1'49"531|+3.795||
 |4|Wii Moo Moo Meadows|1'29"691|+4.700||
-|5|N64 Yoshi Valley|2'03"905|+4.789|2020-08-24|
+|5|N64 Yoshi Valley|2'03"905|+4.873|2020-08-24|
 |6|Sunshine Airport|2'04"031|+5.178|2020-08-23|
 |7|DS Cheep Cheep Beach|1'54"136|+5.560||
 |8|GBA Mario Circuit|1'29"827|+5.679||
@@ -27,17 +27,17 @@
 |23|DS Wario Stadium|1'58"852|+7.062||
 |24|Animal Crossing|1'44"833|+7.092||
 |25|Dolphin Shoals|2'02"478|+7.127||
-|26|GCN Yoshi Circuit|1'50"441|+7.298||
-|27|Super Bell Subway|1'48"782|+7.380||
-|28|Mute City|1'58"666|+7.388||
-|29|Cloudtop Cruise|2'08"054|+7.480||
-|30|GBA Ribbon Road|1'53"450|+7.619||
-|31|SNES Rainbow Road|1'34"223|+7.728||
-|32|Electrodrome|2'04"613|+7.782||
-|33|N64 Royal Raceway|2'03"840|+7.881||
-|34|3DS Piranha Plant Slide|2'08"126|+8.211||
-|35|Excitebike Arena|1'49"232|+8.267||
-|36|Twisted Mansion|2'03"575|+8.305||
+|26|Twisted Mansion|2'02"459|+7.189|2020-08-26|
+|27|GCN Yoshi Circuit|1'50"441|+7.298||
+|28|Super Bell Subway|1'48"782|+7.380||
+|29|Mute City|1'58"666|+7.388||
+|30|Cloudtop Cruise|2'08"054|+7.480||
+|31|GBA Ribbon Road|1'53"450|+7.619||
+|32|SNES Rainbow Road|1'34"223|+7.728||
+|33|Electrodrome|2'04"613|+7.782||
+|34|N64 Royal Raceway|2'03"840|+7.881||
+|35|3DS Piranha Plant Slide|2'08"126|+8.211||
+|36|Excitebike Arena|1'49"232|+8.267||
 |37|3DS Neo Bowser City|1'52"281|+8.900|2020-08-25|
 |38|Bowser's Castle|2'08"946|+9.109||
 |39|Bone-Dry Dunes|1'57"440|+9.153|2020-08-23|
@@ -53,4 +53,4 @@
 
 ゴースト: 1101-6752-0152
 
-Last updated: 2020-08-25
+Last updated: 2020-08-26
