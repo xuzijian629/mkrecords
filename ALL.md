@@ -33,7 +33,7 @@
 |29|Super Bell Subway|1'48"782|+7.380||
 |30|Mute City|1'58"666|+7.388||
 |31|Cloudtop Cruise|2'08"054|+7.480||
-|32|GBA Ribbon Road|1'53"450|+7.619||
+|32|GBA Ribbon Road|1'53"377|+7.546|2020-08-27|
 |33|SNES Rainbow Road|1'34"223|+7.728||
 |34|Electrodrome|2'04"613|+7.782||
 |35|3DS Piranha Plant Slide|2'08"126|+8.211||
@@ -53,4 +53,4 @@
 
 ゴースト: 1101-6752-0152
 
-Last updated: 2020-08-26
+Last updated: 2020-08-27
