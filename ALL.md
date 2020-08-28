@@ -29,11 +29,11 @@
 |25|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
 |26|Animal Crossing|1'44"833|+7.092||
 |27|Dolphin Shoals|2'02"478|+7.127||
-|28|GCN Yoshi Circuit|1'50"441|+7.298||
-|29|Super Bell Subway|1'48"782|+7.380||
-|30|Mute City|1'58"666|+7.388||
-|31|Cloudtop Cruise|2'08"054|+7.480||
-|32|GBA Ribbon Road|1'53"377|+7.546|2020-08-27|
+|28|GBA Ribbon Road|1'53"072|+7.241|2020-08-28|
+|29|GCN Yoshi Circuit|1'50"441|+7.298||
+|30|Super Bell Subway|1'48"782|+7.380||
+|31|Mute City|1'58"666|+7.388||
+|32|Cloudtop Cruise|2'08"054|+7.480||
 |33|SNES Rainbow Road|1'34"223|+7.728||
 |34|Electrodrome|2'04"613|+7.782||
 |35|3DS Piranha Plant Slide|2'08"126|+8.211||
@@ -53,4 +53,4 @@
 
 ゴースト: 1101-6752-0152
 
-Last updated: 2020-08-27
+Last updated: 2020-08-28
