@@ -24,12 +24,12 @@
 |20|Toad Harbor|2'09"696|+6.478||
 |21|Mount Wario|1'49"066|+6.483||
 |22|Wild Woods|1'54"040|+6.600||
-|23|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
-|24|N64 Royal Raceway|2'02"778|+6.819|2020-08-26|
-|25|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
-|26|Animal Crossing|1'44"833|+7.092||
-|27|Dolphin Shoals|2'02"478|+7.127||
-|28|GBA Ribbon Road|1'53"072|+7.241|2020-08-28|
+|23|GBA Ribbon Road|1'52"520|+6.689|2020-08-28|
+|24|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
+|25|N64 Royal Raceway|2'02"778|+6.819|2020-08-26|
+|26|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
+|27|Animal Crossing|1'44"833|+7.092||
+|28|Dolphin Shoals|2'02"478|+7.127||
 |29|GCN Yoshi Circuit|1'50"441|+7.298||
 |30|Super Bell Subway|1'48"782|+7.380||
 |31|Mute City|1'58"666|+7.388||
