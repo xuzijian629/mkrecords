@@ -10,7 +10,7 @@ Sunshine Airport: 1'58"853
 Dolphin Shoals: 1'55"351
 Electrodrome: 1'56"831
 Mount Wario: 1'42"583
-Cloudtop Cruise: 2'00"574
+Cloudtop Cruise: 2'00"531
 Bone-Dry Dunes: 1'48"287
 Bowser's Castle: 1'59"837
 Rainbow Road: 1'59"826
@@ -23,10 +23,10 @@ SNES Donut Plains 3: 1'13"932
 N64 Royal Raceway: 1'55"959
 3DS DK Jungle: 2'01"759
 DS Wario Stadium: 1'51"790
-GCN Sherbet Land: 1'48"195
+GCN Sherbet Land: 1'47"859
 3DS Music Park: 1'52"373
 N64 Yoshi Valley: 1'58"960
-DS Tick-Tock Clock: 1'43"789
+DS Tick-Tock Clock: 1'43"750
 3DS Piranha Plant Slide: 1'59"915
 Wii Grumble Volcano: 1'54"384
 N64 Rainbow Road: 1'20"182

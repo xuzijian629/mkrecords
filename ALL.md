@@ -33,24 +33,24 @@
 |29|GCN Yoshi Circuit|1'50"441|+7.298||
 |30|Super Bell Subway|1'48"782|+7.380||
 |31|Mute City|1'58"666|+7.388||
-|32|Cloudtop Cruise|2'08"054|+7.480||
+|32|Cloudtop Cruise|2'08"054|+7.523||
 |33|SNES Rainbow Road|1'34"223|+7.728||
 |34|Electrodrome|2'04"613|+7.782||
 |35|3DS Piranha Plant Slide|2'08"126|+8.211||
 |36|Excitebike Arena|1'49"232|+8.267||
-|37|3DS Neo Bowser City|1'52"281|+8.900|2020-08-25|
-|38|Bowser's Castle|2'08"946|+9.109||
-|39|Bone-Dry Dunes|1'57"440|+9.153|2020-08-23|
-|40|GBA Cheese Land|1'53"545|+9.244|2020-08-23|
-|41|Wii Grumble Volcano|2'03"673|+9.289||
-|42|GCN Sherbet Land|1'57"632|+9.437|2020-08-23|
-|43|DS Tick-Tock Clock|1'53"442|+9.653||
+|37|Shy Guy Falls|2'05"579|+8.857|2020-08-30|
+|38|3DS Neo Bowser City|1'52"281|+8.900|2020-08-25|
+|39|Bowser's Castle|2'08"946|+9.109||
+|40|Bone-Dry Dunes|1'57"440|+9.153|2020-08-23|
+|41|GBA Cheese Land|1'53"545|+9.244|2020-08-23|
+|42|Wii Grumble Volcano|2'03"673|+9.289||
+|43|DS Tick-Tock Clock|1'53"442|+9.692||
 |44|3DS Music Park|2'02"086|+9.713|2020-08-23|
 |45|SNES Donut Plains 3|1'23"657|+9.725|2020-08-23|
-|46|GCN Dry Dry Desert|2'04"004|+9.825|2020-08-26|
-|47|Dragon Driftway|1'50"654|+9.851|2020-08-26|
-|48|Shy Guy Falls|2'06"710|+9.988||
+|46|GCN Sherbet Land|1'57"632|+9.773|2020-08-23|
+|47|GCN Dry Dry Desert|2'04"004|+9.825|2020-08-26|
+|48|Dragon Driftway|1'50"654|+9.851|2020-08-26|
 
 ゴースト: 1101-6752-0152
 
-Last updated: 2020-08-28
+Last updated: 2020-08-30
