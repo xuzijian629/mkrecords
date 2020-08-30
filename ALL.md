@@ -38,10 +38,10 @@
 |34|Electrodrome|2'04"613|+7.782||
 |35|3DS Piranha Plant Slide|2'08"126|+8.211||
 |36|Excitebike Arena|1'49"232|+8.267||
-|37|Shy Guy Falls|2'05"579|+8.857|2020-08-30|
-|38|3DS Neo Bowser City|1'52"281|+8.900|2020-08-25|
-|39|Bowser's Castle|2'08"946|+9.109||
-|40|Bone-Dry Dunes|1'57"440|+9.153|2020-08-23|
+|37|Bone-Dry Dunes|1'57"128|+8.841|2020-08-30|
+|38|Shy Guy Falls|2'05"579|+8.857|2020-08-30|
+|39|3DS Neo Bowser City|1'52"281|+8.900|2020-08-25|
+|40|Bowser's Castle|2'08"946|+9.109||
 |41|GBA Cheese Land|1'53"545|+9.244|2020-08-23|
 |42|Wii Grumble Volcano|2'03"673|+9.289||
 |43|DS Tick-Tock Clock|1'53"442|+9.692||
