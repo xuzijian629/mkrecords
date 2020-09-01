@@ -40,10 +40,10 @@
 |36|3DS Piranha Plant Slide|2'08"126|+8.211||
 |37|Excitebike Arena|1'49"232|+8.267||
 |38|Dragon Driftway|1'49"176|+8.373|2020-09-01|
-|39|Bone-Dry Dunes|1'57"128|+8.841|2020-08-30|
-|40|Shy Guy Falls|2'05"579|+8.857|2020-08-30|
-|41|3DS Neo Bowser City|1'52"281|+8.900|2020-08-25|
-|42|Bowser's Castle|2'08"946|+9.109||
+|39|Bowser's Castle|2'08"607|+8.770|2020-09-01|
+|40|Bone-Dry Dunes|1'57"128|+8.841|2020-08-30|
+|41|Shy Guy Falls|2'05"579|+8.857|2020-08-30|
+|42|3DS Neo Bowser City|1'52"281|+8.900|2020-08-25|
 |43|GBA Cheese Land|1'53"545|+9.244|2020-08-23|
 |44|Wii Grumble Volcano|2'03"673|+9.289||
 |45|3DS Music Park|2'02"086|+9.713|2020-08-23|
