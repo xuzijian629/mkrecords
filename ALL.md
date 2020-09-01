@@ -32,12 +32,12 @@
 |28|Animal Crossing|1'44"833|+7.092||
 |29|Dolphin Shoals|2'02"478|+7.127||
 |30|GCN Yoshi Circuit|1'50"441|+7.298||
-|31|Mute City|1'58"666|+7.388||
-|32|Bowser's Castle|2'07"263|+7.426|2020-09-01|
-|33|Super Bell Subway|1'48"782|+7.505||
-|34|Cloudtop Cruise|2'08"054|+7.523||
-|35|SNES Rainbow Road|1'34"223|+7.728||
-|36|3DS Neo Bowser City|1'51"161|+7.780|2020-09-01|
+|31|3DS Neo Bowser City|1'50"733|+7.352|2020-09-01|
+|32|Mute City|1'58"666|+7.388||
+|33|Bowser's Castle|2'07"263|+7.426|2020-09-01|
+|34|Super Bell Subway|1'48"782|+7.505||
+|35|Cloudtop Cruise|2'08"054|+7.523||
+|36|SNES Rainbow Road|1'34"223|+7.728||
 |37|Electrodrome|2'04"613|+7.782||
 |38|3DS Piranha Plant Slide|2'08"126|+8.211||
 |39|Excitebike Arena|1'49"232|+8.267||
