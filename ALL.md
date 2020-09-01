@@ -37,8 +37,8 @@
 |33|Super Bell Subway|1'48"782|+7.505||
 |34|Cloudtop Cruise|2'08"054|+7.523||
 |35|SNES Rainbow Road|1'34"223|+7.728||
-|36|Electrodrome|2'04"613|+7.782||
-|37|3DS Neo Bowser City|1'51"437|+8.056|2020-09-01|
+|36|3DS Neo Bowser City|1'51"161|+7.780|2020-09-01|
+|37|Electrodrome|2'04"613|+7.782||
 |38|3DS Piranha Plant Slide|2'08"126|+8.211||
 |39|Excitebike Arena|1'49"232|+8.267||
 |40|Dragon Driftway|1'49"176|+8.373|2020-09-01|
