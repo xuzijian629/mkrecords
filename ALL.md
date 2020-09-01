@@ -38,18 +38,18 @@
 |34|Cloudtop Cruise|2'08"054|+7.523||
 |35|SNES Rainbow Road|1'34"223|+7.728||
 |36|Electrodrome|2'04"613|+7.782||
-|37|3DS Piranha Plant Slide|2'08"126|+8.211||
-|38|Excitebike Arena|1'49"232|+8.267||
-|39|Dragon Driftway|1'49"176|+8.373|2020-09-01|
-|40|Wii Grumble Volcano|2'02"814|+8.430|2020-09-01|
-|41|3DS Music Park|2'01"031|+8.658|2020-09-01|
-|42|GBA Cheese Land|1'53"010|+8.709|2020-09-01|
-|43|GCN Sherbet Land|1'56"573|+8.714|2020-09-01|
-|44|SNES Donut Plains 3|1'22"692|+8.760|2020-09-01|
-|45|GCN Dry Dry Desert|2'03"008|+8.829|2020-09-01|
-|46|Bone-Dry Dunes|1'57"128|+8.841|2020-08-30|
-|47|Shy Guy Falls|2'05"579|+8.857|2020-08-30|
-|48|3DS Neo Bowser City|1'52"281|+8.900|2020-08-25|
+|37|3DS Neo Bowser City|1'51"437|+8.056|2020-09-01|
+|38|3DS Piranha Plant Slide|2'08"126|+8.211||
+|39|Excitebike Arena|1'49"232|+8.267||
+|40|Dragon Driftway|1'49"176|+8.373|2020-09-01|
+|41|Wii Grumble Volcano|2'02"814|+8.430|2020-09-01|
+|42|3DS Music Park|2'01"031|+8.658|2020-09-01|
+|43|GBA Cheese Land|1'53"010|+8.709|2020-09-01|
+|44|GCN Sherbet Land|1'56"573|+8.714|2020-09-01|
+|45|SNES Donut Plains 3|1'22"692|+8.760|2020-09-01|
+|46|GCN Dry Dry Desert|2'03"008|+8.829|2020-09-01|
+|47|Bone-Dry Dunes|1'57"128|+8.841|2020-08-30|
+|48|Shy Guy Falls|2'05"579|+8.857|2020-08-30|
 
 ゴースト: 1101-6752-0152
 
