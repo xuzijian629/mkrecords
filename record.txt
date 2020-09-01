@@ -23,7 +23,7 @@ SNES Donut Plains 3: 1'23"657: 2020-08-23
 N64 Royal Raceway: 2'02"778: 2020-08-26
 3DS DK Jungle: 2'08"224
 DS Wario Stadium: 1'57"849: 2020-08-26
-GCN Sherbet Land: 1'57"552: 2020-09-01
+GCN Sherbet Land: 1'56"573: 2020-09-01
 3DS Music Park: 2'01"031: 2020-09-01
 N64 Yoshi Valley: 2'03"905: 2020-08-24
 DS Tick-Tock Clock: 1'50"307: 2020-08-31
