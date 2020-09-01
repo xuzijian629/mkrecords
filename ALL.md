@@ -39,8 +39,8 @@
 |35|Electrodrome|2'04"613|+7.782||
 |36|3DS Piranha Plant Slide|2'08"126|+8.211||
 |37|Excitebike Arena|1'49"232|+8.267||
-|38|Dragon Driftway|1'49"176|+8.373|2020-09-01|
-|39|Bowser's Castle|2'08"390|+8.554|2020-09-01|
+|38|Bowser's Castle|2'08"173|+8.336|2020-09-01|
+|39|Dragon Driftway|1'49"176|+8.373|2020-09-01|
 |40|Bone-Dry Dunes|1'57"128|+8.841|2020-08-30|
 |41|Shy Guy Falls|2'05"579|+8.857|2020-08-30|
 |42|3DS Neo Bowser City|1'52"281|+8.900|2020-08-25|
