@@ -25,14 +25,14 @@
 |21|Mount Wario|1'49"066|+6.483||
 |22|DS Tick-Tock Clock|1'50"307|+6.557|2020-08-31|
 |23|Wild Woods|1'54"040|+6.600||
-|24|GBA Ribbon Road|1'52"520|+6.689|2020-08-28|
-|25|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
-|26|N64 Royal Raceway|2'02"778|+6.819|2020-08-26|
-|27|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
-|28|Animal Crossing|1'44"833|+7.092||
-|29|Dolphin Shoals|2'02"478|+7.127||
-|30|GCN Yoshi Circuit|1'50"441|+7.298||
-|31|3DS Neo Bowser City|1'50"733|+7.352|2020-09-01|
+|24|3DS Neo Bowser City|1'50"018|+6.637|2020-09-01|
+|25|GBA Ribbon Road|1'52"520|+6.689|2020-08-28|
+|26|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
+|27|N64 Royal Raceway|2'02"778|+6.819|2020-08-26|
+|28|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
+|29|Animal Crossing|1'44"833|+7.092||
+|30|Dolphin Shoals|2'02"478|+7.127||
+|31|GCN Yoshi Circuit|1'50"441|+7.298||
 |32|Mute City|1'58"666|+7.388||
 |33|Bowser's Castle|2'07"263|+7.426|2020-09-01|
 |34|Super Bell Subway|1'48"782|+7.505||
