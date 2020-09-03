@@ -32,17 +32,17 @@
 |28|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
 |29|Animal Crossing|1'44"833|+7.092||
 |30|Dolphin Shoals|2'02"478|+7.127||
-|31|GCN Yoshi Circuit|1'50"441|+7.298||
-|32|Mute City|1'58"666|+7.388||
-|33|Bowser's Castle|2'07"263|+7.426|2020-09-01|
-|34|Super Bell Subway|1'48"782|+7.505||
-|35|Cloudtop Cruise|2'08"054|+7.523||
-|36|SNES Rainbow Road|1'34"223|+7.728||
-|37|Electrodrome|2'04"613|+7.782||
-|38|3DS Piranha Plant Slide|2'08"126|+8.211||
-|39|Excitebike Arena|1'49"232|+8.267||
-|40|Dragon Driftway|1'49"176|+8.373|2020-09-01|
-|41|Shy Guy Falls|2'05"143|+8.421|2020-09-03|
+|31|Shy Guy Falls|2'03"933|+7.211|2020-09-03|
+|32|GCN Yoshi Circuit|1'50"441|+7.298||
+|33|Mute City|1'58"666|+7.388||
+|34|Bowser's Castle|2'07"263|+7.426|2020-09-01|
+|35|Super Bell Subway|1'48"782|+7.505||
+|36|Cloudtop Cruise|2'08"054|+7.523||
+|37|SNES Rainbow Road|1'34"223|+7.728||
+|38|Electrodrome|2'04"613|+7.782||
+|39|3DS Piranha Plant Slide|2'08"126|+8.211||
+|40|Excitebike Arena|1'49"232|+8.267||
+|41|Dragon Driftway|1'49"176|+8.373|2020-09-01|
 |42|Wii Grumble Volcano|2'02"814|+8.430|2020-09-01|
 |43|3DS Music Park|2'01"031|+8.658|2020-09-01|
 |44|GBA Cheese Land|1'53"010|+8.709|2020-09-01|
