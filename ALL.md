@@ -45,9 +45,9 @@
 |41|Excitebike Arena|1'49"232|+8.267||
 |42|Dragon Driftway|1'49"176|+8.373|2020-09-01|
 |43|Wii Grumble Volcano|2'02"814|+8.430|2020-09-01|
-|44|GBA Cheese Land|1'53"010|+8.709|2020-09-01|
-|45|GCN Sherbet Land|1'56"573|+8.714|2020-09-01|
-|46|SNES Donut Plains 3|1'22"692|+8.760|2020-09-01|
+|44|SNES Donut Plains 3|1'22"368|+8.436|2020-09-05|
+|45|GBA Cheese Land|1'53"010|+8.709|2020-09-01|
+|46|GCN Sherbet Land|1'56"573|+8.714|2020-09-01|
 |47|GCN Dry Dry Desert|2'03"008|+8.829|2020-09-01|
 |48|Bone-Dry Dunes|1'57"128|+8.841|2020-08-30|
 
