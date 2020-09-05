@@ -38,13 +38,13 @@
 |34|Bowser's Castle|2'07"263|+7.426|2020-09-01|
 |35|Super Bell Subway|1'48"782|+7.505||
 |36|Cloudtop Cruise|2'08"054|+7.523||
-|37|SNES Rainbow Road|1'34"223|+7.728||
-|38|Electrodrome|2'04"613|+7.782||
-|39|3DS Piranha Plant Slide|2'08"126|+8.211||
-|40|Excitebike Arena|1'49"232|+8.267||
-|41|Dragon Driftway|1'49"176|+8.373|2020-09-01|
-|42|Wii Grumble Volcano|2'02"814|+8.430|2020-09-01|
-|43|3DS Music Park|2'01"031|+8.658|2020-09-01|
+|37|3DS Music Park|1'59"923|+7.550|2020-09-05|
+|38|SNES Rainbow Road|1'34"223|+7.728||
+|39|Electrodrome|2'04"613|+7.782||
+|40|3DS Piranha Plant Slide|2'08"126|+8.211||
+|41|Excitebike Arena|1'49"232|+8.267||
+|42|Dragon Driftway|1'49"176|+8.373|2020-09-01|
+|43|Wii Grumble Volcano|2'02"814|+8.430|2020-09-01|
 |44|GBA Cheese Land|1'53"010|+8.709|2020-09-01|
 |45|GCN Sherbet Land|1'56"573|+8.714|2020-09-01|
 |46|SNES Donut Plains 3|1'22"692|+8.760|2020-09-01|
@@ -53,4 +53,4 @@
 
 ゴースト: 1101-6752-0152
 
-Last updated: 2020-09-03
+Last updated: 2020-09-05
