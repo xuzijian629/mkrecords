@@ -40,9 +40,9 @@
 |36|GCN Sherbet Land|1'55"381|+7.522|2020-09-06|
 |37|Cloudtop Cruise|2'08"054|+7.523||
 |38|3DS Music Park|1'59"923|+7.550|2020-09-05|
-|39|SNES Rainbow Road|1'34"223|+7.728||
-|40|Electrodrome|2'04"613|+7.782||
-|41|3DS Piranha Plant Slide|2'08"126|+8.211||
+|39|3DS Piranha Plant Slide|2'07"586|+7.671|2020-09-06|
+|40|SNES Rainbow Road|1'34"223|+7.728||
+|41|Electrodrome|2'04"613|+7.782||
 |42|Excitebike Arena|1'49"232|+8.267||
 |43|Dragon Driftway|1'49"176|+8.373|2020-09-01|
 |44|Wii Grumble Volcano|2'02"814|+8.430|2020-09-01|
