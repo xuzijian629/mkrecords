@@ -30,8 +30,8 @@
 |26|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
 |27|N64 Royal Raceway|2'02"778|+6.819|2020-08-26|
 |28|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
-|29|Animal Crossing|1'44"833|+7.092||
-|30|Dolphin Shoals|2'02"478|+7.127||
+|29|Dolphin Shoals|2'02"478|+7.127||
+|30|Animal Crossing|1'44"833|+7.211||
 |31|Shy Guy Falls|2'03"933|+7.211|2020-09-03|
 |32|GCN Yoshi Circuit|1'50"441|+7.298||
 |33|Mute City|1'58"666|+7.388||
@@ -41,16 +41,16 @@
 |37|3DS Music Park|1'59"923|+7.550|2020-09-05|
 |38|SNES Rainbow Road|1'34"223|+7.728||
 |39|Electrodrome|2'04"613|+7.782||
-|40|3DS Piranha Plant Slide|2'08"126|+8.211||
-|41|Excitebike Arena|1'49"232|+8.267||
-|42|Dragon Driftway|1'49"176|+8.373|2020-09-01|
-|43|Wii Grumble Volcano|2'02"814|+8.430|2020-09-01|
-|44|SNES Donut Plains 3|1'22"368|+8.436|2020-09-05|
-|45|GCN Sherbet Land|1'56"307|+8.448|2020-09-05|
+|40|GCN Sherbet Land|1'56"028|+8.169|2020-09-05|
+|41|3DS Piranha Plant Slide|2'08"126|+8.211||
+|42|Excitebike Arena|1'49"232|+8.267||
+|43|Dragon Driftway|1'49"176|+8.373|2020-09-01|
+|44|Wii Grumble Volcano|2'02"814|+8.430|2020-09-01|
+|45|SNES Donut Plains 3|1'22"368|+8.436|2020-09-05|
 |46|GBA Cheese Land|1'53"010|+8.709|2020-09-01|
 |47|GCN Dry Dry Desert|2'03"008|+8.829|2020-09-01|
 |48|Bone-Dry Dunes|1'57"128|+8.841|2020-08-30|
 
 ゴースト: 1101-6752-0152
 
-Last updated: 2020-09-05
+Last updated: 2020-09-06
