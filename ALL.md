@@ -43,13 +43,13 @@
 |39|3DS Piranha Plant Slide|2'07"586|+7.671|2020-09-06|
 |40|SNES Rainbow Road|1'34"223|+7.728||
 |41|Electrodrome|2'04"613|+7.782||
-|42|Excitebike Arena|1'49"232|+8.267||
-|43|Dragon Driftway|1'49"176|+8.373|2020-09-01|
-|44|Wii Grumble Volcano|2'02"814|+8.430|2020-09-01|
-|45|SNES Donut Plains 3|1'22"368|+8.436|2020-09-05|
-|46|GBA Cheese Land|1'53"010|+8.709|2020-09-01|
-|47|GCN Dry Dry Desert|2'03"008|+8.829|2020-09-01|
-|48|Bone-Dry Dunes|1'57"128|+8.841|2020-08-30|
+|42|Bone-Dry Dunes|1'56"526|+8.239|2020-09-06|
+|43|Excitebike Arena|1'49"232|+8.267||
+|44|Dragon Driftway|1'49"176|+8.373|2020-09-01|
+|45|Wii Grumble Volcano|2'02"814|+8.430|2020-09-01|
+|46|SNES Donut Plains 3|1'22"368|+8.436|2020-09-05|
+|47|GBA Cheese Land|1'53"010|+8.709|2020-09-01|
+|48|GCN Dry Dry Desert|2'03"008|+8.829|2020-09-01|
 
 ゴースト: 1101-6752-0152
 
