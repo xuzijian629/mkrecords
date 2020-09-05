@@ -40,12 +40,12 @@
 |36|GCN Sherbet Land|1'55"381|+7.522|2020-09-06|
 |37|Cloudtop Cruise|2'08"054|+7.523||
 |38|3DS Music Park|1'59"923|+7.550|2020-09-05|
-|39|Bone-Dry Dunes|1'55"862|+7.575|2020-09-06|
-|40|3DS Piranha Plant Slide|2'07"586|+7.671|2020-09-06|
-|41|SNES Rainbow Road|1'34"223|+7.728||
-|42|Electrodrome|2'04"613|+7.782||
-|43|Excitebike Arena|1'49"232|+8.267||
-|44|GBA Cheese Land|1'52"622|+8.321|2020-09-06|
+|39|GBA Cheese Land|1'51"873|+7.572|2020-09-06|
+|40|Bone-Dry Dunes|1'55"862|+7.575|2020-09-06|
+|41|3DS Piranha Plant Slide|2'07"586|+7.671|2020-09-06|
+|42|SNES Rainbow Road|1'34"223|+7.728||
+|43|Electrodrome|2'04"613|+7.782||
+|44|Excitebike Arena|1'49"232|+8.267||
 |45|Dragon Driftway|1'49"176|+8.373|2020-09-01|
 |46|Wii Grumble Volcano|2'02"814|+8.430|2020-09-01|
 |47|SNES Donut Plains 3|1'22"368|+8.436|2020-09-05|
