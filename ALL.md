@@ -37,11 +37,11 @@
 |33|Mute City|1'58"666|+7.388||
 |34|Bowser's Castle|2'07"263|+7.426|2020-09-01|
 |35|Super Bell Subway|1'48"782|+7.505||
-|36|Cloudtop Cruise|2'08"054|+7.523||
-|37|3DS Music Park|1'59"923|+7.550|2020-09-05|
-|38|SNES Rainbow Road|1'34"223|+7.728||
-|39|Electrodrome|2'04"613|+7.782||
-|40|GCN Sherbet Land|1'56"028|+8.169|2020-09-05|
+|36|GCN Sherbet Land|1'55"381|+7.522|2020-09-06|
+|37|Cloudtop Cruise|2'08"054|+7.523||
+|38|3DS Music Park|1'59"923|+7.550|2020-09-05|
+|39|SNES Rainbow Road|1'34"223|+7.728||
+|40|Electrodrome|2'04"613|+7.782||
 |41|3DS Piranha Plant Slide|2'08"126|+8.211||
 |42|Excitebike Arena|1'49"232|+8.267||
 |43|Dragon Driftway|1'49"176|+8.373|2020-09-01|
