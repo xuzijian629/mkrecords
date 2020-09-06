@@ -45,9 +45,9 @@
 |41|3DS Piranha Plant Slide|2'07"586|+7.671|2020-09-06|
 |42|SNES Rainbow Road|1'34"223|+7.728||
 |43|Electrodrome|2'04"613|+7.782||
-|44|Excitebike Arena|1'49"232|+8.267||
-|45|Dragon Driftway|1'49"176|+8.373|2020-09-01|
-|46|Wii Grumble Volcano|2'02"814|+8.430|2020-09-01|
+|44|Wii Grumble Volcano|2'02"487|+8.103|2020-09-06|
+|45|Excitebike Arena|1'49"232|+8.267||
+|46|Dragon Driftway|1'49"176|+8.373|2020-09-01|
 |47|SNES Donut Plains 3|1'22"368|+8.436|2020-09-05|
 |48|GCN Dry Dry Desert|2'03"008|+8.829|2020-09-01|
 
