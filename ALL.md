@@ -24,28 +24,28 @@
 |20|Toad Harbor|2'09"696|+6.478||
 |21|Mount Wario|1'49"066|+6.483||
 |22|DS Tick-Tock Clock|1'50"307|+6.557|2020-08-31|
-|23|Wild Woods|1'54"040|+6.600||
-|24|3DS Neo Bowser City|1'50"018|+6.637|2020-09-01|
-|25|GBA Ribbon Road|1'52"520|+6.689|2020-08-28|
-|26|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
-|27|N64 Royal Raceway|2'02"778|+6.819|2020-08-26|
-|28|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
-|29|Dolphin Shoals|2'02"478|+7.127||
-|30|Animal Crossing|1'44"833|+7.211||
-|31|Shy Guy Falls|2'03"933|+7.211|2020-09-03|
-|32|GCN Yoshi Circuit|1'50"441|+7.298||
-|33|Mute City|1'58"666|+7.388||
-|34|Bowser's Castle|2'07"263|+7.426|2020-09-01|
-|35|Super Bell Subway|1'48"782|+7.505||
-|36|GCN Sherbet Land|1'55"381|+7.522|2020-09-06|
-|37|Cloudtop Cruise|2'08"054|+7.523||
-|38|3DS Music Park|1'59"923|+7.550|2020-09-05|
-|39|GBA Cheese Land|1'51"873|+7.572|2020-09-06|
-|40|Bone-Dry Dunes|1'55"862|+7.575|2020-09-06|
-|41|3DS Piranha Plant Slide|2'07"586|+7.671|2020-09-06|
-|42|SNES Rainbow Road|1'34"223|+7.728||
-|43|Electrodrome|2'04"613|+7.782||
-|44|Wii Grumble Volcano|2'02"487|+8.103|2020-09-06|
+|23|Wii Grumble Volcano|2'00"951|+6.567|2020-09-06|
+|24|Wild Woods|1'54"040|+6.600||
+|25|3DS Neo Bowser City|1'50"018|+6.637|2020-09-01|
+|26|GBA Ribbon Road|1'52"520|+6.689|2020-08-28|
+|27|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
+|28|N64 Royal Raceway|2'02"778|+6.819|2020-08-26|
+|29|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
+|30|Dolphin Shoals|2'02"478|+7.127||
+|31|Animal Crossing|1'44"833|+7.211||
+|32|Shy Guy Falls|2'03"933|+7.211|2020-09-03|
+|33|GCN Yoshi Circuit|1'50"441|+7.298||
+|34|Mute City|1'58"666|+7.388||
+|35|Bowser's Castle|2'07"263|+7.426|2020-09-01|
+|36|Super Bell Subway|1'48"782|+7.505||
+|37|GCN Sherbet Land|1'55"381|+7.522|2020-09-06|
+|38|Cloudtop Cruise|2'08"054|+7.523||
+|39|3DS Music Park|1'59"923|+7.550|2020-09-05|
+|40|GBA Cheese Land|1'51"873|+7.572|2020-09-06|
+|41|Bone-Dry Dunes|1'55"862|+7.575|2020-09-06|
+|42|3DS Piranha Plant Slide|2'07"586|+7.671|2020-09-06|
+|43|SNES Rainbow Road|1'34"223|+7.728||
+|44|Electrodrome|2'04"613|+7.782||
 |45|Excitebike Arena|1'49"232|+8.267||
 |46|Dragon Driftway|1'49"176|+8.373|2020-09-01|
 |47|SNES Donut Plains 3|1'22"368|+8.436|2020-09-05|
