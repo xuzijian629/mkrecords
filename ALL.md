@@ -43,10 +43,10 @@
 |39|3DS Music Park|1'59"923|+7.550|2020-09-05|
 |40|GBA Cheese Land|1'51"873|+7.572|2020-09-06|
 |41|Bone-Dry Dunes|1'55"862|+7.575|2020-09-06|
-|42|3DS Piranha Plant Slide|2'07"586|+7.671|2020-09-06|
-|43|SNES Rainbow Road|1'34"223|+7.728||
-|44|Electrodrome|2'04"613|+7.782||
-|45|GCN Dry Dry Desert|2'02"254|+8.075|2020-09-06|
+|42|GCN Dry Dry Desert|2'01"798|+7.619|2020-09-06|
+|43|3DS Piranha Plant Slide|2'07"586|+7.671|2020-09-06|
+|44|SNES Rainbow Road|1'34"223|+7.728||
+|45|Electrodrome|2'04"613|+7.782||
 |46|Excitebike Arena|1'49"232|+8.267||
 |47|Dragon Driftway|1'49"176|+8.373|2020-09-01|
 |48|SNES Donut Plains 3|1'22"368|+8.436|2020-09-05|
