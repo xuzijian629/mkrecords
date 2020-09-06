@@ -46,7 +46,7 @@
 |42|3DS Piranha Plant Slide|2'07"586|+7.671|2020-09-06|
 |43|SNES Rainbow Road|1'34"223|+7.728||
 |44|Electrodrome|2'04"613|+7.782||
-|45|GCN Dry Dry Desert|2'02"326|+8.147|2020-09-06|
+|45|GCN Dry Dry Desert|2'02"254|+8.075|2020-09-06|
 |46|Excitebike Arena|1'49"232|+8.267||
 |47|Dragon Driftway|1'49"176|+8.373|2020-09-01|
 |48|SNES Donut Plains 3|1'22"368|+8.436|2020-09-05|
