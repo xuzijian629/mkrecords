@@ -7,19 +7,19 @@
 |3|Mario Circuit|1'49"531|+3.795||
 |4|Wii Moo Moo Meadows|1'29"691|+4.700||
 |5|N64 Yoshi Valley|2'03"905|+4.945|2020-08-24|
-|6|Sunshine Airport|2'04"031|+5.178|2020-08-23|
-|7|Twisted Mansion|2'00"667|+5.397|2020-08-26|
-|8|DS Cheep Cheep Beach|1'54"136|+5.560||
-|9|GBA Mario Circuit|1'29"827|+5.679||
-|10|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
-|11|Mario Kart Stadium|1'43"315|+5.800||
-|12|3DS DK Jungle|2'07"617|+5.858|2020-09-08|
-|13|Water Park|1'46"723|+5.932||
-|14|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
-|15|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
-|16|DS Wario Stadium|1'57"849|+6.059|2020-08-26|
-|17|N64 Toad's Turnpike|1'52"571|+6.152||
-|18|Sweet Sweet Canyon|1'55"365|+6.167|2020-09-08|
+|6|Sweet Sweet Canyon|1'54"189|+4.991|2020-09-08|
+|7|Sunshine Airport|2'04"031|+5.178|2020-08-23|
+|8|Twisted Mansion|2'00"667|+5.397|2020-08-26|
+|9|DS Cheep Cheep Beach|1'54"136|+5.560||
+|10|GBA Mario Circuit|1'29"827|+5.679||
+|11|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
+|12|Mario Kart Stadium|1'43"315|+5.800||
+|13|3DS DK Jungle|2'07"617|+5.858|2020-09-08|
+|14|Water Park|1'46"723|+5.932||
+|15|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
+|16|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
+|17|DS Wario Stadium|1'57"849|+6.059|2020-08-26|
+|18|N64 Toad's Turnpike|1'52"571|+6.152||
 |19|Rainbow Road|2'06"034|+6.208||
 |20|GCN Baby Park|1'08"549|+6.311||
 |21|Toad Harbor|2'09"696|+6.478||
