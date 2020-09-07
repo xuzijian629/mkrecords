@@ -21,9 +21,9 @@
 |17|DS Wario Stadium|1'57"849|+6.059|2020-08-26|
 |18|N64 Toad's Turnpike|1'52"571|+6.152||
 |19|Rainbow Road|2'06"034|+6.208||
-|20|GCN Baby Park|1'08"549|+6.311||
-|21|Toad Harbor|2'09"696|+6.478||
-|22|Mount Wario|1'49"066|+6.483||
+|20|Mount Wario|1'48"850|+6.267|2020-09-08|
+|21|GCN Baby Park|1'08"549|+6.311||
+|22|Toad Harbor|2'09"696|+6.478||
 |23|DS Tick-Tock Clock|1'50"307|+6.557|2020-08-31|
 |24|Wii Grumble Volcano|2'00"951|+6.567|2020-09-06|
 |25|Wild Woods|1'54"040|+6.600||
