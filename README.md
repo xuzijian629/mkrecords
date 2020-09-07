@@ -13,12 +13,13 @@
 |9|GBA Mario Circuit|1'29"827|+5.679||
 |10|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
 |11|Mario Kart Stadium|1'43"315|+5.800||
-|12|Water Park|1'46"723|+5.932||
-|13|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
-|14|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
+|12|3DS DK Jungle|2'07"617|+5.858|2020-09-08|
+|13|Water Park|1'46"723|+5.932||
+|14|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
+|15|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
 
 ゴースト: 1101-6752-0152
 
-Last updated: 2020-09-07
+Last updated: 2020-09-08
 
 [全記録](https://github.com/xuzijian629/xuzijian629/blob/master/ALL.md)
