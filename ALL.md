@@ -19,7 +19,7 @@
 |15|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
 |16|DS Wario Stadium|1'57"849|+6.059|2020-08-26|
 |17|N64 Toad's Turnpike|1'52"571|+6.152||
-|18|Sweet Sweet Canyon|1'55"374|+6.176||
+|18|Sweet Sweet Canyon|1'55"365|+6.167|2020-09-08|
 |19|Rainbow Road|2'06"034|+6.208||
 |20|GCN Baby Park|1'08"549|+6.311||
 |21|Toad Harbor|2'09"696|+6.478||
