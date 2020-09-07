@@ -17,11 +17,11 @@
 |13|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
 |14|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
 |15|DS Wario Stadium|1'57"849|+6.059|2020-08-26|
-|16|N64 Toad's Turnpike|1'52"571|+6.152||
-|17|Sweet Sweet Canyon|1'55"374|+6.176||
-|18|Rainbow Road|2'06"034|+6.208||
-|19|GCN Baby Park|1'08"549|+6.311||
-|20|3DS DK Jungle|2'08"223|+6.465||
+|16|3DS DK Jungle|2'07"835|+6.076|2020-09-07|
+|17|N64 Toad's Turnpike|1'52"571|+6.152||
+|18|Sweet Sweet Canyon|1'55"374|+6.176||
+|19|Rainbow Road|2'06"034|+6.208||
+|20|GCN Baby Park|1'08"549|+6.311||
 |21|Toad Harbor|2'09"696|+6.478||
 |22|Mount Wario|1'49"066|+6.483||
 |23|DS Tick-Tock Clock|1'50"307|+6.557|2020-08-31|
