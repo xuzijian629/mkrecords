@@ -15,38 +15,38 @@
 |11|Mario Kart Stadium|1'43"315|+5.800||
 |12|Water Park|1'46"723|+5.932||
 |13|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
-|14|DS Wario Stadium|1'57"849|+6.059|2020-08-26|
-|15|N64 Toad's Turnpike|1'52"571|+6.152||
-|16|Sweet Sweet Canyon|1'55"374|+6.176||
-|17|Rainbow Road|2'06"034|+6.208||
-|18|GCN Baby Park|1'08"549|+6.311||
-|19|3DS DK Jungle|2'08"223|+6.465||
-|20|Toad Harbor|2'09"696|+6.478||
-|21|Mount Wario|1'49"066|+6.483||
-|22|DS Tick-Tock Clock|1'50"307|+6.557|2020-08-31|
-|23|Wii Grumble Volcano|2'00"951|+6.567|2020-09-06|
-|24|Wild Woods|1'54"040|+6.600||
-|25|3DS Neo Bowser City|1'50"018|+6.637|2020-09-01|
-|26|GBA Ribbon Road|1'52"520|+6.689|2020-08-28|
-|27|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
-|28|N64 Royal Raceway|2'02"778|+6.819|2020-08-26|
-|29|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
-|30|Dolphin Shoals|2'02"478|+7.127||
-|31|Animal Crossing|1'44"833|+7.211||
-|32|Shy Guy Falls|2'03"933|+7.211|2020-09-03|
-|33|SNES Donut Plains 3|1'21"148|+7.216|2020-09-06|
-|34|GCN Yoshi Circuit|1'50"441|+7.298||
-|35|Mute City|1'58"666|+7.388||
-|36|Bowser's Castle|2'07"263|+7.426|2020-09-01|
-|37|Super Bell Subway|1'48"782|+7.505||
-|38|GCN Sherbet Land|1'55"381|+7.522|2020-09-06|
-|39|Cloudtop Cruise|2'08"054|+7.523||
-|40|3DS Music Park|1'59"923|+7.550|2020-09-05|
-|41|GBA Cheese Land|1'51"873|+7.572|2020-09-06|
-|42|Bone-Dry Dunes|1'55"862|+7.575|2020-09-06|
-|43|GCN Dry Dry Desert|2'01"798|+7.619|2020-09-06|
-|44|3DS Piranha Plant Slide|2'07"586|+7.671|2020-09-06|
-|45|SNES Rainbow Road|1'34"223|+7.728||
+|14|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
+|15|DS Wario Stadium|1'57"849|+6.059|2020-08-26|
+|16|N64 Toad's Turnpike|1'52"571|+6.152||
+|17|Sweet Sweet Canyon|1'55"374|+6.176||
+|18|Rainbow Road|2'06"034|+6.208||
+|19|GCN Baby Park|1'08"549|+6.311||
+|20|3DS DK Jungle|2'08"223|+6.465||
+|21|Toad Harbor|2'09"696|+6.478||
+|22|Mount Wario|1'49"066|+6.483||
+|23|DS Tick-Tock Clock|1'50"307|+6.557|2020-08-31|
+|24|Wii Grumble Volcano|2'00"951|+6.567|2020-09-06|
+|25|Wild Woods|1'54"040|+6.600||
+|26|3DS Neo Bowser City|1'50"018|+6.637|2020-09-01|
+|27|GBA Ribbon Road|1'52"520|+6.689|2020-08-28|
+|28|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
+|29|N64 Royal Raceway|2'02"778|+6.819|2020-08-26|
+|30|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
+|31|Dolphin Shoals|2'02"478|+7.127||
+|32|Animal Crossing|1'44"833|+7.211||
+|33|Shy Guy Falls|2'03"933|+7.211|2020-09-03|
+|34|SNES Donut Plains 3|1'21"148|+7.216|2020-09-06|
+|35|GCN Yoshi Circuit|1'50"441|+7.298||
+|36|Mute City|1'58"666|+7.388||
+|37|Bowser's Castle|2'07"263|+7.426|2020-09-01|
+|38|Super Bell Subway|1'48"782|+7.505||
+|39|GCN Sherbet Land|1'55"381|+7.522|2020-09-06|
+|40|Cloudtop Cruise|2'08"054|+7.523||
+|41|3DS Music Park|1'59"923|+7.550|2020-09-05|
+|42|GBA Cheese Land|1'51"873|+7.572|2020-09-06|
+|43|Bone-Dry Dunes|1'55"862|+7.575|2020-09-06|
+|44|GCN Dry Dry Desert|2'01"798|+7.619|2020-09-06|
+|45|3DS Piranha Plant Slide|2'07"586|+7.671|2020-09-06|
 |46|Electrodrome|2'04"613|+7.782||
 |47|Excitebike Arena|1'49"232|+8.267||
 |48|Dragon Driftway|1'49"176|+8.373|2020-09-01|
