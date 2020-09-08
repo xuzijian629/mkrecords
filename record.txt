@@ -41,7 +41,7 @@ Hyrule Circuit: 1'54"896: 2020-08-23
 GCN Baby Park: 1'08"549
 GBA Cheese Land: 1'51"873: 2020-09-06
 Wild Woods: 1'52"504: 2020-09-08
-Animal Crossing: 1'44"833
+Animal Crossing: 1'44"328: 2020-09-08
 3DS Neo Bowser City: 1'50"018: 2020-09-01
 GBA Ribbon Road: 1'52"520: 2020-08-28
 Super Bell Subway: 1'48"782
