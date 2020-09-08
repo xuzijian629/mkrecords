@@ -5,8 +5,8 @@
 |1|N64 Rainbow Road|1'23"350|+3.203|2020-08-23|
 |2|Big Blue|1'27"183|+3.417|2020-09-07|
 |3|Mario Circuit|1'49"531|+3.795||
-|4|Wii Moo Moo Meadows|1'29"691|+4.700||
-|5|N64 Toad's Turnpike|1'51"144|+4.725|2020-09-08|
+|4|N64 Toad's Turnpike|1'50"410|+3.991|2020-09-08|
+|5|Wii Moo Moo Meadows|1'29"691|+4.700||
 |6|N64 Yoshi Valley|2'03"905|+4.945|2020-08-24|
 |7|Sweet Sweet Canyon|1'54"189|+4.991|2020-09-08|
 |8|Wild Woods|1'52"504|+5.064|2020-09-08|
@@ -23,6 +23,6 @@
 
 ゴースト: 1101-6752-0152
 
-Last updated: 2020-09-08
+Last updated: 2020-09-09
 
 [全記録](https://github.com/xuzijian629/xuzijian629/blob/master/ALL.md)
