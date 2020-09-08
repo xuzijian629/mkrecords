@@ -47,7 +47,7 @@
 |43|Bone-Dry Dunes|1'55"862|+7.575|2020-09-06|
 |44|GCN Dry Dry Desert|2'01"798|+7.619|2020-09-06|
 |45|3DS Piranha Plant Slide|2'07"586|+7.671|2020-09-06|
-|46|Electrodrome|2'04"613|+7.782||
+|46|Electrodrome|2'04"609|+7.778|2020-09-09|
 |47|Excitebike Arena|1'49"232|+8.267||
 |48|Dragon Driftway|1'49"176|+8.373|2020-09-01|
 
