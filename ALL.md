@@ -38,16 +38,16 @@
 |34|Shy Guy Falls|2'03"933|+7.211|2020-09-03|
 |35|SNES Donut Plains 3|1'21"148|+7.216|2020-09-06|
 |36|GCN Yoshi Circuit|1'50"441|+7.298||
-|37|Bowser's Castle|2'07"263|+7.426|2020-09-01|
-|38|Super Bell Subway|1'48"782|+7.505||
-|39|GCN Sherbet Land|1'55"381|+7.522|2020-09-06|
-|40|Cloudtop Cruise|2'08"054|+7.523||
-|41|3DS Music Park|1'59"923|+7.550|2020-09-05|
-|42|GBA Cheese Land|1'51"873|+7.572|2020-09-06|
-|43|Bone-Dry Dunes|1'55"862|+7.575|2020-09-06|
-|44|GCN Dry Dry Desert|2'01"798|+7.619|2020-09-06|
-|45|3DS Piranha Plant Slide|2'07"586|+7.671|2020-09-06|
-|46|Electrodrome|2'04"609|+7.778|2020-09-09|
+|37|Electrodrome|2'04"217|+7.386|2020-09-09|
+|38|Bowser's Castle|2'07"263|+7.426|2020-09-01|
+|39|Super Bell Subway|1'48"782|+7.505||
+|40|GCN Sherbet Land|1'55"381|+7.522|2020-09-06|
+|41|Cloudtop Cruise|2'08"054|+7.523||
+|42|3DS Music Park|1'59"923|+7.550|2020-09-05|
+|43|GBA Cheese Land|1'51"873|+7.572|2020-09-06|
+|44|Bone-Dry Dunes|1'55"862|+7.575|2020-09-06|
+|45|GCN Dry Dry Desert|2'01"798|+7.619|2020-09-06|
+|46|3DS Piranha Plant Slide|2'07"586|+7.671|2020-09-06|
 |47|Excitebike Arena|1'49"232|+8.267||
 |48|Dragon Driftway|1'49"176|+8.373|2020-09-01|
 
