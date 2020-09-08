@@ -30,7 +30,7 @@ DS Tick-Tock Clock: 1'50"307: 2020-08-31
 3DS Piranha Plant Slide: 2'07"586: 2020-09-06
 Wii Grumble Volcano: 2'00"951: 2020-09-06
 N64 Rainbow Road: 1'23"350: 2020-08-23
-GCN Yoshi Circuit: 1'50"441
+GCN Yoshi Circuit: 1'50"252: 2020-09-09
 Excitebike Arena: 1'49"232
 Dragon Driftway: 1'49"176: 2020-09-01
 Mute City: 1'58"113: 2020-09-08
