@@ -31,13 +31,13 @@
 |27|GBA Ribbon Road|1'52"520|+6.689|2020-08-28|
 |28|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
 |29|N64 Royal Raceway|2'02"778|+6.819|2020-08-26|
-|30|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
-|31|Dolphin Shoals|2'02"478|+7.127||
-|32|Animal Crossing|1'44"833|+7.211||
+|30|Mute City|1'58"113|+6.835|2020-09-08|
+|31|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
+|32|Dolphin Shoals|2'02"478|+7.127||
 |33|Shy Guy Falls|2'03"933|+7.211|2020-09-03|
 |34|SNES Donut Plains 3|1'21"148|+7.216|2020-09-06|
-|35|GCN Yoshi Circuit|1'50"441|+7.298||
-|36|Mute City|1'58"666|+7.388||
+|35|Animal Crossing|1'44"833|+7.251||
+|36|GCN Yoshi Circuit|1'50"441|+7.298||
 |37|Bowser's Castle|2'07"263|+7.426|2020-09-01|
 |38|Super Bell Subway|1'48"782|+7.505||
 |39|GCN Sherbet Land|1'55"381|+7.522|2020-09-06|
