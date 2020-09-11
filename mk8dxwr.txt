@@ -16,7 +16,7 @@ Bowser's Castle: 1'59"837
 Rainbow Road: 1'59"826
 Wii Moo Moo Meadows: 1'24"991
 GBA Mario Circuit: 1'24"148
-DS Cheep Cheep Beach: 1'48"576
+DS Cheep Cheep Beach: 1'48"393
 N64 Toad's Turnpike: 1'46"419
 GCN Dry Dry Desert: 1'54"179
 SNES Donut Plains 3: 1'13"932
@@ -45,4 +45,4 @@ Animal Crossing: 1'37"582
 3DS Neo Bowser City: 1'43"381
 GBA Ribbon Road: 1'45"831
 Super Bell Subway: 1'41"277
-Big Blue: 1'23"766
+Big Blue: 1'23"750
