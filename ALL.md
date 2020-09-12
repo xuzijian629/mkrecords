@@ -14,23 +14,23 @@
 |10|Sunshine Airport|2'04"031|+5.178|2020-08-23|
 |11|Mario Kart Stadium|1'42"795|+5.280|2020-09-08|
 |12|Twisted Mansion|2'00"667|+5.397|2020-08-26|
-|13|GBA Mario Circuit|1'29"827|+5.679||
-|14|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
-|15|DS Cheep Cheep Beach|1'54"136|+5.743||
-|16|3DS DK Jungle|2'07"617|+5.858|2020-09-08|
-|17|Water Park|1'46"723|+5.932||
-|18|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
-|19|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
-|20|DS Wario Stadium|1'57"849|+6.059|2020-08-26|
-|21|Rainbow Road|2'06"034|+6.208||
-|22|Mount Wario|1'48"850|+6.267|2020-09-08|
-|23|GCN Baby Park|1'08"549|+6.311||
-|24|Electrodrome|2'03"296|+6.465|2020-09-09|
-|25|Toad Harbor|2'09"696|+6.478||
-|26|DS Tick-Tock Clock|1'50"307|+6.557|2020-08-31|
-|27|Wii Grumble Volcano|2'00"951|+6.567|2020-09-06|
-|28|3DS Neo Bowser City|1'50"018|+6.637|2020-09-01|
-|29|Super Bell Subway|1'47"945|+6.668|2020-09-12|
+|13|Super Bell Subway|1'46"772|+5.495|2020-09-12|
+|14|GBA Mario Circuit|1'29"827|+5.679||
+|15|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
+|16|DS Cheep Cheep Beach|1'54"136|+5.743||
+|17|3DS DK Jungle|2'07"617|+5.858|2020-09-08|
+|18|Water Park|1'46"723|+5.932||
+|19|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
+|20|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
+|21|DS Wario Stadium|1'57"849|+6.059|2020-08-26|
+|22|Rainbow Road|2'06"034|+6.208||
+|23|Mount Wario|1'48"850|+6.267|2020-09-08|
+|24|GCN Baby Park|1'08"549|+6.311||
+|25|Electrodrome|2'03"296|+6.465|2020-09-09|
+|26|Toad Harbor|2'09"696|+6.478||
+|27|DS Tick-Tock Clock|1'50"307|+6.557|2020-08-31|
+|28|Wii Grumble Volcano|2'00"951|+6.567|2020-09-06|
+|29|3DS Neo Bowser City|1'50"018|+6.637|2020-09-01|
 |30|GBA Ribbon Road|1'52"520|+6.689|2020-08-28|
 |31|Hyrule Circuit|1'54"896|+6.711|2020-08-23|
 |32|Animal Crossing|1'44"328|+6.746|2020-09-08|

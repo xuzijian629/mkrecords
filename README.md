@@ -14,13 +14,14 @@
 |10|Sunshine Airport|2'04"031|+5.178|2020-08-23|
 |11|Mario Kart Stadium|1'42"795|+5.280|2020-09-08|
 |12|Twisted Mansion|2'00"667|+5.397|2020-08-26|
-|13|GBA Mario Circuit|1'29"827|+5.679||
-|14|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
-|15|DS Cheep Cheep Beach|1'54"136|+5.743||
-|16|3DS DK Jungle|2'07"617|+5.858|2020-09-08|
-|17|Water Park|1'46"723|+5.932||
-|18|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
-|19|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
+|13|Super Bell Subway|1'46"772|+5.495|2020-09-12|
+|14|GBA Mario Circuit|1'29"827|+5.679||
+|15|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
+|16|DS Cheep Cheep Beach|1'54"136|+5.743||
+|17|3DS DK Jungle|2'07"617|+5.858|2020-09-08|
+|18|Water Park|1'46"723|+5.932||
+|19|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
+|20|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
 
 ゴースト: 1101-6752-0152
 
