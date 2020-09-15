@@ -22,7 +22,7 @@ GCN Dry Dry Desert: 2'01"798: 2020-09-06
 SNES Donut Plains 3: 1'21"148: 2020-09-06
 N64 Royal Raceway: 2'02"778: 2020-08-26
 3DS DK Jungle: 2'07"617: 2020-09-08
-DS Wario Stadium: 1'57"849: 2020-08-26
+DS Wario Stadium: 1'57"284: 2020-09-16
 GCN Sherbet Land: 1'55"381: 2020-09-06
 3DS Music Park: 1'59"923: 2020-09-05
 N64 Yoshi Valley: 2'03"905: 2020-08-24

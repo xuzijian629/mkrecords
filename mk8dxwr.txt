@@ -37,7 +37,7 @@ Mute City: 1'51"278
 Wii Wario's Gold Mine: 2'02"653
 SNES Rainbow Road: 1'26"495
 Ice Ice Outpost: 1'46"642
-Hyrule Circuit: 1'48"003
+Hyrule Circuit: 1'47"957
 GCN Baby Park: 1'02"238
 GBA Cheese Land: 1'44"301
 Wild Woods: 1'47"440
@@ -45,4 +45,4 @@ Animal Crossing: 1'37"582
 3DS Neo Bowser City: 1'43"381
 GBA Ribbon Road: 1'45"831
 Super Bell Subway: 1'41"277
-Big Blue: 1'23"700
+Big Blue: 1'23"683
