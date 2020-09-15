@@ -15,25 +15,25 @@
 |11|Twisted Mansion|2'00"667|+5.397|2020-08-26|
 |12|Super Bell Subway|1'46"772|+5.495|2020-09-12|
 |13|GBA Mario Circuit|1'29"827|+5.679||
-|14|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
-|15|DS Cheep Cheep Beach|1'54"136|+5.743||
-|16|3DS DK Jungle|2'07"617|+5.858|2020-09-08|
-|17|Mario Kart Stadium|1'42"795|+5.924|2020-09-08|
-|18|Water Park|1'46"723|+5.932||
-|19|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
-|20|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
-|21|DS Wario Stadium|1'57"849|+6.059|2020-08-26|
-|22|Rainbow Road|2'06"034|+6.208||
-|23|Mount Wario|1'48"850|+6.267|2020-09-08|
-|24|GCN Baby Park|1'08"549|+6.311||
-|25|Electrodrome|2'03"296|+6.465|2020-09-09|
-|26|Toad Harbor|2'09"696|+6.478||
-|27|DS Tick-Tock Clock|1'50"307|+6.557|2020-08-31|
-|28|Wii Grumble Volcano|2'00"951|+6.567|2020-09-06|
-|29|3DS Neo Bowser City|1'50"018|+6.637|2020-09-01|
-|30|GBA Ribbon Road|1'52"520|+6.689|2020-08-28|
-|31|Animal Crossing|1'44"328|+6.746|2020-09-08|
-|32|Hyrule Circuit|1'54"751|+6.748|2020-09-16|
+|14|Hyrule Circuit|1'53"697|+5.694|2020-09-16|
+|15|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
+|16|DS Cheep Cheep Beach|1'54"136|+5.743||
+|17|3DS DK Jungle|2'07"617|+5.858|2020-09-08|
+|18|Mario Kart Stadium|1'42"795|+5.924|2020-09-08|
+|19|Water Park|1'46"723|+5.932||
+|20|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
+|21|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
+|22|DS Wario Stadium|1'57"849|+6.059|2020-08-26|
+|23|Rainbow Road|2'06"034|+6.208||
+|24|Mount Wario|1'48"850|+6.267|2020-09-08|
+|25|GCN Baby Park|1'08"549|+6.311||
+|26|Electrodrome|2'03"296|+6.465|2020-09-09|
+|27|Toad Harbor|2'09"696|+6.478||
+|28|DS Tick-Tock Clock|1'50"307|+6.557|2020-08-31|
+|29|Wii Grumble Volcano|2'00"951|+6.567|2020-09-06|
+|30|3DS Neo Bowser City|1'50"018|+6.637|2020-09-01|
+|31|GBA Ribbon Road|1'52"520|+6.689|2020-08-28|
+|32|Animal Crossing|1'44"328|+6.746|2020-09-08|
 |33|N64 Royal Raceway|2'02"778|+6.819|2020-08-26|
 |34|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
 |35|GCN Yoshi Circuit|1'50"252|+7.109|2020-09-09|
