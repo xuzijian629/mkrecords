@@ -15,19 +15,19 @@
 |11|Twisted Mansion|2'00"667|+5.397|2020-08-26|
 |12|DS Wario Stadium|1'57"284|+5.494|2020-09-16|
 |13|Super Bell Subway|1'46"772|+5.495|2020-09-12|
-|14|GBA Mario Circuit|1'29"827|+5.679||
-|15|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
-|16|Hyrule Circuit|1'53"697|+5.740|2020-09-16|
-|17|DS Cheep Cheep Beach|1'54"136|+5.743||
-|18|3DS DK Jungle|2'07"617|+5.858|2020-09-08|
-|19|Rainbow Road|2'05"682|+5.901|2020-09-17|
-|20|Mario Kart Stadium|1'42"795|+5.924|2020-09-08|
+|14|Dragon Driftway|1'46"454|+5.651|2020-09-17|
+|15|GBA Mario Circuit|1'29"827|+5.679||
+|16|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
+|17|Hyrule Circuit|1'53"697|+5.740|2020-09-16|
+|18|DS Cheep Cheep Beach|1'54"136|+5.743||
+|19|3DS DK Jungle|2'07"617|+5.858|2020-09-08|
+|20|Rainbow Road|2'05"682|+5.901|2020-09-17|
 |21|Water Park|1'46"723|+5.932||
 |22|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
 |23|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
 
 ゴースト: 1101-6752-0152
 
-Last updated: 2020-09-17
+Last updated: 2020-09-18
 
 [全記録](https://github.com/xuzijian629/xuzijian629/blob/master/ALL.md)
