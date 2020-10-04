@@ -18,39 +18,39 @@
 |14|Dragon Driftway|1'46"454|+5.651|2020-09-17|
 |15|GBA Mario Circuit|1'29"827|+5.679||
 |16|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
-|17|Hyrule Circuit|1'53"697|+5.740|2020-09-16|
-|18|DS Cheep Cheep Beach|1'54"136|+5.743||
+|17|DS Cheep Cheep Beach|1'54"136|+5.743||
+|18|Hyrule Circuit|1'53"697|+5.766|2020-09-16|
 |19|3DS DK Jungle|2'07"617|+5.858|2020-09-08|
-|20|Rainbow Road|2'05"682|+5.901|2020-09-17|
-|21|Water Park|1'46"723|+5.932||
-|22|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
-|23|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
-|24|Mario Kart Stadium|1'42"795|+6.084|2020-09-08|
-|25|Mount Wario|1'48"850|+6.267|2020-09-08|
-|26|GCN Baby Park|1'08"549|+6.311||
-|27|Electrodrome|2'03"296|+6.465|2020-09-09|
-|28|Toad Harbor|2'09"696|+6.478||
-|29|DS Tick-Tock Clock|1'50"307|+6.557|2020-08-31|
-|30|Wii Grumble Volcano|2'00"951|+6.567|2020-09-06|
-|31|3DS Neo Bowser City|1'50"018|+6.637|2020-09-01|
-|32|GBA Ribbon Road|1'52"520|+6.689|2020-08-28|
-|33|Animal Crossing|1'44"328|+6.746|2020-09-08|
-|34|N64 Royal Raceway|2'02"778|+6.819|2020-08-26|
-|35|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
-|36|GCN Yoshi Circuit|1'50"252|+7.109|2020-09-09|
-|37|Dolphin Shoals|2'02"478|+7.127||
+|20|Water Park|1'46"723|+5.932||
+|21|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
+|22|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
+|23|Rainbow Road|2'05"682|+6.057|2020-09-17|
+|24|GCN Baby Park|1'08"549|+6.311||
+|25|Mount Wario|1'48"850|+6.400|2020-09-08|
+|26|Toad Harbor|2'09"696|+6.478||
+|27|DS Tick-Tock Clock|1'50"307|+6.557|2020-08-31|
+|28|Wii Grumble Volcano|2'00"951|+6.567|2020-09-06|
+|29|Electrodrome|2'03"296|+6.587|2020-09-09|
+|30|3DS Neo Bowser City|1'50"018|+6.637|2020-09-01|
+|31|GBA Ribbon Road|1'52"520|+6.689|2020-08-28|
+|32|Animal Crossing|1'44"328|+6.746|2020-09-08|
+|33|N64 Royal Raceway|2'02"778|+6.819|2020-08-26|
+|34|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
+|35|GCN Yoshi Circuit|1'50"252|+7.109|2020-09-09|
+|36|Mario Kart Stadium|1'42"795|+7.128|2020-09-08|
+|37|Dolphin Shoals|2'02"478|+7.158||
 |38|SNES Donut Plains 3|1'21"148|+7.216|2020-09-06|
 |39|Bowser's Castle|2'07"263|+7.426|2020-09-01|
 |40|Shy Guy Falls|2'03"933|+7.482|2020-09-03|
 |41|GCN Sherbet Land|1'55"381|+7.522|2020-09-06|
 |42|Cloudtop Cruise|2'08"054|+7.523||
-|43|3DS Music Park|1'59"923|+7.550|2020-09-05|
-|44|GBA Cheese Land|1'51"873|+7.572|2020-09-06|
-|45|Bone-Dry Dunes|1'55"862|+7.575|2020-09-06|
-|46|GCN Dry Dry Desert|2'01"798|+7.619|2020-09-06|
-|47|3DS Piranha Plant Slide|2'07"586|+7.671|2020-09-06|
-|48|Excitebike Arena|1'48"657|+7.692|2020-09-16|
+|43|GBA Cheese Land|1'51"873|+7.572|2020-09-06|
+|44|Bone-Dry Dunes|1'55"862|+7.575|2020-09-06|
+|45|GCN Dry Dry Desert|2'01"798|+7.619|2020-09-06|
+|46|3DS Piranha Plant Slide|2'07"586|+7.671|2020-09-06|
+|47|Excitebike Arena|1'48"657|+7.692|2020-09-16|
+|48|3DS Music Park|1'59"923|+8.147|2020-09-05|
 
 ゴースト: 1101-6752-0152
 
-Last updated: 2020-09-18
+Last updated: 2020-10-05

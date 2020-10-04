@@ -18,16 +18,15 @@
 |14|Dragon Driftway|1'46"454|+5.651|2020-09-17|
 |15|GBA Mario Circuit|1'29"827|+5.679||
 |16|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
-|17|Hyrule Circuit|1'53"697|+5.740|2020-09-16|
-|18|DS Cheep Cheep Beach|1'54"136|+5.743||
+|17|DS Cheep Cheep Beach|1'54"136|+5.743||
+|18|Hyrule Circuit|1'53"697|+5.766|2020-09-16|
 |19|3DS DK Jungle|2'07"617|+5.858|2020-09-08|
-|20|Rainbow Road|2'05"682|+5.901|2020-09-17|
-|21|Water Park|1'46"723|+5.932||
-|22|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
-|23|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
+|20|Water Park|1'46"723|+5.932||
+|21|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
+|22|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
 
 ゴースト: 1101-6752-0152
 
-Last updated: 2020-09-18
+Last updated: 2020-10-05
 
 [全記録](https://github.com/xuzijian629/xuzijian629/blob/master/ALL.md)

@@ -1,4 +1,4 @@
-Mario Kart Stadium: 1'36"711
+Mario Kart Stadium: 1'35"667
 Water Park: 1'40"791
 Sweet Sweet Canyon: 1'49"198
 Thwomp Ruins: 1'50"939
@@ -7,13 +7,13 @@ Toad Harbor: 2'03"218
 Twisted Mansion: 1'55"270
 Shy Guy Falls: 1'56"451
 Sunshine Airport: 1'58"853
-Dolphin Shoals: 1'55"351
-Electrodrome: 1'56"831
-Mount Wario: 1'42"583
+Dolphin Shoals: 1'55"320
+Electrodrome: 1'56"709
+Mount Wario: 1'42"450
 Cloudtop Cruise: 2'00"531
 Bone-Dry Dunes: 1'48"287
 Bowser's Castle: 1'59"837
-Rainbow Road: 1'59"781
+Rainbow Road: 1'59"625
 Wii Moo Moo Meadows: 1'24"991
 GBA Mario Circuit: 1'24"148
 DS Cheep Cheep Beach: 1'48"393
@@ -24,7 +24,7 @@ N64 Royal Raceway: 1'55"959
 3DS DK Jungle: 2'01"759
 DS Wario Stadium: 1'51"790
 GCN Sherbet Land: 1'47"859
-3DS Music Park: 1'52"373
+3DS Music Park: 1'51"776
 N64 Yoshi Valley: 1'58"960
 DS Tick-Tock Clock: 1'43"750
 3DS Piranha Plant Slide: 1'59"915
@@ -37,7 +37,7 @@ Mute City: 1'51"278
 Wii Wario's Gold Mine: 2'02"653
 SNES Rainbow Road: 1'26"495
 Ice Ice Outpost: 1'46"642
-Hyrule Circuit: 1'47"957
+Hyrule Circuit: 1'47"931
 GCN Baby Park: 1'02"238
 GBA Cheese Land: 1'44"301
 Wild Woods: 1'47"440
