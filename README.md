@@ -13,8 +13,8 @@
 |9|Mute City|1'56"446|+5.168|2020-09-12|
 |10|Sunshine Airport|2'04"031|+5.178|2020-08-23|
 |11|Twisted Mansion|2'00"667|+5.397|2020-08-26|
-|12|DS Wario Stadium|1'57"284|+5.494|2020-09-16|
-|13|Super Bell Subway|1'46"772|+5.495|2020-09-12|
+|12|DS Wario Stadium|1'57"284|+5.495|2020-09-16|
+|13|Super Bell Subway|1'46"772|+5.548|2020-09-12|
 |14|Dragon Driftway|1'46"454|+5.651|2020-09-17|
 |15|GBA Mario Circuit|1'29"827|+5.679||
 |16|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
@@ -27,6 +27,6 @@
 
 ゴースト: 1101-6752-0152
 
-Last updated: 2020-10-07
+Last updated: 2020-10-08
 
 [全記録](https://github.com/xuzijian629/xuzijian629/blob/master/ALL.md)

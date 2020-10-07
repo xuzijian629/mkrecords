@@ -22,7 +22,7 @@ GCN Dry Dry Desert: 1'54"179
 SNES Donut Plains 3: 1'13"932
 N64 Royal Raceway: 1'55"959
 3DS DK Jungle: 2'01"759
-DS Wario Stadium: 1'51"790
+DS Wario Stadium: 1'51"789
 GCN Sherbet Land: 1'47"859
 3DS Music Park: 1'51"617
 N64 Yoshi Valley: 1'58"960
@@ -44,5 +44,5 @@ Wild Woods: 1'47"440
 Animal Crossing: 1'37"582
 3DS Neo Bowser City: 1'43"143
 GBA Ribbon Road: 1'45"831
-Super Bell Subway: 1'41"277
+Super Bell Subway: 1'41"224
 Big Blue: 1'23"683
