@@ -31,7 +31,7 @@ DS Tick-Tock Clock: 1'50"307: 2020-08-31
 Wii Grumble Volcano: 2'00"951: 2020-09-06
 N64 Rainbow Road: 1'23"350: 2020-08-23
 GCN Yoshi Circuit: 1'50"252: 2020-09-09
-Excitebike Arena: 1'48"096: 2020-10-08
+Excitebike Arena: 1'47"721: 2020-10-08
 Dragon Driftway: 1'46"454: 2020-09-17
 Mute City: 1'56"446: 2020-09-12
 Wii Wario's Gold Mine: 2'08"356: 2020-08-24
