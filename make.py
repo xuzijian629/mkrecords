@@ -34,13 +34,14 @@ def make_markdown_table(data):
         idx += 1
     ret += '\n'
     ret += 'ゴースト: 1101-6752-0152\n\n'
+    ret += '全コース8秒落ち: 2020/09/16\n\n'
     ret += 'Last updated: {}\n'.format(datetime.date.today())
     return ret
 
 def format_summary(data):
     data = sorted(data, key = lambda x: x[2] - x[1])
-    ret = '# TA記録（6秒落ち以内）\n\n'
-    ret += make_markdown_table(filter(lambda x: x[2] - x[1] <= 6, data))
+    ret = '# TA記録（5秒落ち以内）\n\n'
+    ret += make_markdown_table(filter(lambda x: x[2] - x[1] <= 5, data))
     return ret
 
 def format_all(data):
