@@ -32,18 +32,18 @@
 |28|DS Tick-Tock Clock|1'50"307|+6.557|2020-08-31|
 |29|Wii Grumble Volcano|2'00"951|+6.567|2020-09-06|
 |30|Electrodrome|2'03"296|+6.587|2020-09-09|
-|31|Animal Crossing|1'44"328|+6.746|2020-09-08|
-|32|Excitebike Arena|1'47"721|+6.756|2020-10-08|
-|33|N64 Royal Raceway|2'02"778|+6.819|2020-08-26|
-|34|3DS Neo Bowser City|1'50"018|+6.875|2020-09-01|
-|35|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
-|36|GCN Yoshi Circuit|1'50"252|+7.109|2020-09-09|
-|37|Mario Kart Stadium|1'42"795|+7.128|2020-09-08|
-|38|Dolphin Shoals|2'02"478|+7.158||
-|39|SNES Donut Plains 3|1'21"148|+7.216|2020-09-06|
-|40|Bowser's Castle|2'07"263|+7.426|2020-09-01|
-|41|3DS Music Park|1'59"043|+7.426|2020-10-05|
-|42|3DS Piranha Plant Slide|2'07"386|+7.471|2020-10-08|
+|31|3DS Piranha Plant Slide|2'06"568|+6.653|2020-10-08|
+|32|Animal Crossing|1'44"328|+6.746|2020-09-08|
+|33|Excitebike Arena|1'47"721|+6.756|2020-10-08|
+|34|N64 Royal Raceway|2'02"778|+6.819|2020-08-26|
+|35|3DS Neo Bowser City|1'50"018|+6.875|2020-09-01|
+|36|Ice Ice Outpost|1'53"561|+6.919|2020-08-25|
+|37|GCN Yoshi Circuit|1'50"252|+7.109|2020-09-09|
+|38|Mario Kart Stadium|1'42"795|+7.128|2020-09-08|
+|39|Dolphin Shoals|2'02"478|+7.158||
+|40|SNES Donut Plains 3|1'21"148|+7.216|2020-09-06|
+|41|Bowser's Castle|2'07"263|+7.426|2020-09-01|
+|42|3DS Music Park|1'59"043|+7.426|2020-10-05|
 |43|Shy Guy Falls|2'03"933|+7.482|2020-09-03|
 |44|GCN Sherbet Land|1'55"381|+7.522|2020-09-06|
 |45|Cloudtop Cruise|2'08"054|+7.523||
