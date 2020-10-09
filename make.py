@@ -50,6 +50,12 @@ def format_all(data):
     ret += make_markdown_table(data)
     return ret
 
+def format_updates(data):
+    data = sorted(data, key = lambda x: x[-1])[::-1]
+    ret = '# 全コース記録（新しい順）\n\n'
+    ret += make_markdown_table(data)
+    return ret
+
 with open('README.md', 'w') as f:
     f.write(format_summary(data))
     f.write('\n')
@@ -57,3 +63,6 @@ with open('README.md', 'w') as f:
 
 with open('ALL.md', 'w') as f:
     f.write(format_all(data))
+
+with open('UPDATES.md', 'w') as f:
+    f.write(format_updates(data))
