@@ -1,4 +1,4 @@
-Mario Kart Stadium: 1'35"667
+Mario Kart Stadium: 1'35"588
 Water Park: 1'40"791
 Sweet Sweet Canyon: 1'49"198
 Thwomp Ruins: 1'50"939
@@ -19,7 +19,7 @@ GBA Mario Circuit: 1'24"148
 DS Cheep Cheep Beach: 1'48"393
 N64 Toad's Turnpike: 1'46"419
 GCN Dry Dry Desert: 1'54"179
-SNES Donut Plains 3: 1'13"932
+SNES Donut Plains 3: 1'13"888
 N64 Royal Raceway: 1'55"959
 3DS DK Jungle: 2'01"759
 DS Wario Stadium: 1'51"789
@@ -41,7 +41,7 @@ Hyrule Circuit: 1'47"931
 GCN Baby Park: 1'02"238
 GBA Cheese Land: 1'44"301
 Wild Woods: 1'47"440
-Animal Crossing: 1'37"582
+Animal Crossing: 1'37"505
 3DS Neo Bowser City: 1'43"143
 GBA Ribbon Road: 1'45"831
 Super Bell Subway: 1'41"224
