@@ -12,17 +12,17 @@ Electrodrome: 1'56"709
 Mount Wario: 1'42"450
 Cloudtop Cruise: 2'00"531
 Bone-Dry Dunes: 1'48"287
-Bowser's Castle: 1'59"837
+Bowser's Castle: 1'59"790
 Rainbow Road: 1'59"625
-Wii Moo Moo Meadows: 1'24"991
+Wii Moo Moo Meadows: 1'24"977
 GBA Mario Circuit: 1'24"148
 DS Cheep Cheep Beach: 1'48"393
 N64 Toad's Turnpike: 1'46"419
 GCN Dry Dry Desert: 1'54"179
 SNES Donut Plains 3: 1'13"888
 N64 Royal Raceway: 1'55"959
-3DS DK Jungle: 2'01"759
-DS Wario Stadium: 1'51"789
+3DS DK Jungle: 2'01"754
+DS Wario Stadium: 1'51"737
 GCN Sherbet Land: 1'47"859
 3DS Music Park: 1'51"617
 N64 Yoshi Valley: 1'58"960
@@ -41,7 +41,7 @@ Hyrule Circuit: 1'47"931
 GCN Baby Park: 1'02"238
 GBA Cheese Land: 1'44"301
 Wild Woods: 1'47"440
-Animal Crossing: 1'37"505
+Animal Crossing: 1'37"477
 3DS Neo Bowser City: 1'43"143
 GBA Ribbon Road: 1'45"831
 Super Bell Subway: 1'41"224
