@@ -6,7 +6,7 @@
 |2|Big Blue|1'27"183|+3.500|2020-09-07|
 |3|Mario Circuit|1'49"531|+3.795||
 |4|N64 Toad's Turnpike|1'50"348|+3.929|2020-09-08|
-|5|Wii Moo Moo Meadows|1'29"691|+4.733||
+|5|Wii Moo Moo Meadows|1'29"691|+4.771||
 |6|N64 Yoshi Valley|2'03"905|+4.945|2020-08-24|
 |7|Sweet Sweet Canyon|1'54"189|+4.991|2020-09-08|
 
@@ -14,6 +14,6 @@
 
 全コース8秒落ち: 2020/09/16
 
-Last updated: 2020-10-17
+Last updated: 2020-10-19
 
 [全記録](https://github.com/xuzijian629/xuzijian629/blob/master/ALL.md)

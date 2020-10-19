@@ -14,7 +14,7 @@ Cloudtop Cruise: 2'00"531
 Bone-Dry Dunes: 1'48"287
 Bowser's Castle: 1'59"790
 Rainbow Road: 1'59"625
-Wii Moo Moo Meadows: 1'24"958
+Wii Moo Moo Meadows: 1'24"920
 GBA Mario Circuit: 1'24"148
 DS Cheep Cheep Beach: 1'48"393
 N64 Toad's Turnpike: 1'46"419
@@ -44,5 +44,5 @@ Wild Woods: 1'47"440
 Animal Crossing: 1'37"477
 3DS Neo Bowser City: 1'43"143
 GBA Ribbon Road: 1'45"831
-Super Bell Subway: 1'41"169
+Super Bell Subway: 1'41"136
 Big Blue: 1'23"683
