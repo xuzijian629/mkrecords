@@ -7,7 +7,7 @@
 |3|Mario Circuit|1'49"531|+3.795||
 |4|GCN Baby Park|1'06"130|+3.892|2020-10-21|
 |5|N64 Toad's Turnpike|1'50"348|+3.944|2020-09-08|
-|6|Sunshine Airport|2'03"327|+4.474|2020-10-28|
+|6|Sunshine Airport|2'02"984|+4.131|2020-10-28|
 |7|Wii Moo Moo Meadows|1'29"691|+4.805||
 |8|N64 Yoshi Valley|2'03"905|+4.945|2020-08-24|
 |9|Sweet Sweet Canyon|1'54"189|+4.991|2020-09-08|
