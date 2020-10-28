@@ -13,18 +13,18 @@
 |9|Sweet Sweet Canyon|1'54"189|+4.991|2020-09-08|
 |10|Wild Woods|1'52"504|+5.064|2020-09-08|
 |11|Mute City|1'56"446|+5.168|2020-09-12|
-|12|Twisted Mansion|2'00"667|+5.397|2020-08-26|
-|13|DS Wario Stadium|1'57"284|+5.598|2020-09-16|
-|14|Dragon Driftway|1'46"454|+5.651|2020-09-17|
-|15|Rainbow Road|2'05"291|+5.666|2020-10-14|
-|16|GBA Mario Circuit|1'29"827|+5.679||
-|17|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
-|18|Super Bell Subway|1'46"772|+5.719|2020-09-12|
-|19|3DS Piranha Plant Slide|2'05"643|+5.728|2020-10-09|
-|20|Animal Crossing|1'43"210|+5.733|2020-10-29|
-|21|Electrodrome|2'02"451|+5.742|2020-10-29|
-|22|DS Cheep Cheep Beach|1'54"136|+5.743||
-|23|Mount Wario|1'48"200|+5.750|2020-10-12|
+|12|Mount Wario|1'47"833|+5.383|2020-10-29|
+|13|Twisted Mansion|2'00"667|+5.397|2020-08-26|
+|14|DS Wario Stadium|1'57"284|+5.598|2020-09-16|
+|15|Dragon Driftway|1'46"454|+5.651|2020-09-17|
+|16|Rainbow Road|2'05"291|+5.666|2020-10-14|
+|17|GBA Mario Circuit|1'29"827|+5.679||
+|18|Wii Wario's Gold Mine|2'08"356|+5.703|2020-08-24|
+|19|Super Bell Subway|1'46"772|+5.719|2020-09-12|
+|20|3DS Piranha Plant Slide|2'05"643|+5.728|2020-10-09|
+|21|Animal Crossing|1'43"210|+5.733|2020-10-29|
+|22|Electrodrome|2'02"451|+5.742|2020-10-29|
+|23|DS Cheep Cheep Beach|1'54"136|+5.743||
 |24|Hyrule Circuit|1'53"697|+5.766|2020-09-16|
 |25|DS Tick-Tock Clock|1'49"638|+5.888|2020-10-14|
 |26|3DS DK Jungle|2'07"308|+5.903|2020-10-28|
