@@ -20,7 +20,7 @@ DS Cheep Cheep Beach: 1'54"136
 N64 Toad's Turnpike: 1'50"348: 2020-09-08
 GCN Dry Dry Desert: 2'01"111: 2020-10-15
 SNES Donut Plains 3: 1'19"904: 2020-10-20
-N64 Royal Raceway: 2'02"778: 2020-08-26
+N64 Royal Raceway: 2'02"509: 2020-10-29
 3DS DK Jungle: 2'07"308: 2020-10-28
 DS Wario Stadium: 1'57"284: 2020-09-16
 GCN Sherbet Land: 1'54"016: 2020-10-17
