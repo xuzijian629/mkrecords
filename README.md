@@ -18,6 +18,6 @@
 
 全コース7秒落ち: 2020/10/20
 
-Last updated: 2020-10-28
+Last updated: 2020-10-29
 
 [全記録](https://github.com/xuzijian629/xuzijian629/blob/master/ALL.md)
