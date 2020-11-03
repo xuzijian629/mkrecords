@@ -40,8 +40,8 @@ def make_markdown_table(data):
         idx += 1
     ret += '\n'
     ret += 'ゴースト: 1101-6752-0152\n\n'
-    ret += '全コース8秒落ち: 2020/09/16\n\n'
-    ret += '全コース7秒落ち: 2020/10/20\n\n'
+    ret += '全コース8秒落ち: 2020-09-16\n\n'
+    ret += '全コース7秒落ち: 2020-10-20\n\n'
     ret += 'Last updated: {}\n'.format(datetime.date.today())
     return ret
 
