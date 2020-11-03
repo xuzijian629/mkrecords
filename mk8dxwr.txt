@@ -4,7 +4,7 @@ Sweet Sweet Canyon: 1'49"198
 Thwomp Ruins: 1'50"939
 Mario Circuit: 1'45"736
 Toad Harbor: 2'03"218
-Twisted Mansion: 1'55"270
+Twisted Mansion: 1'55"201
 Shy Guy Falls: 1'56"451
 Sunshine Airport: 1'58"852
 Dolphin Shoals: 1'55"320
@@ -17,11 +17,11 @@ Rainbow Road: 1'59"625
 Wii Moo Moo Meadows: 1'24"796
 GBA Mario Circuit: 1'24"148
 DS Cheep Cheep Beach: 1'48"393
-N64 Toad's Turnpike: 1'46"404
+N64 Toad's Turnpike: 1'46"373
 GCN Dry Dry Desert: 1'54"179
 SNES Donut Plains 3: 1'13"888
 N64 Royal Raceway: 1'55"959
-3DS DK Jungle: 2'01"405
+3DS DK Jungle: 2'01"341
 DS Wario Stadium: 1'51"686
 GCN Sherbet Land: 1'47"859
 3DS Music Park: 1'51"617
