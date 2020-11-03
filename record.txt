@@ -28,7 +28,7 @@ GCN Sherbet Land: 1'54"016: 2020-10-17
 N64 Yoshi Valley: 2'03"905: 2020-08-24
 DS Tick-Tock Clock: 1'49"638: 2020-10-14
 3DS Piranha Plant Slide: 2'05"643: 2020-10-09
-Wii Grumble Volcano: 2'00"916: 2020-11-03
+Wii Grumble Volcano: 2'00"841: 2020-11-03
 N64 Rainbow Road: 1'22"841: 2020-11-02
 GCN Yoshi Circuit: 1'49"635: 2020-10-20
 Excitebike Arena: 1'47"721: 2020-10-08
