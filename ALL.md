@@ -22,24 +22,24 @@
 |18|DS Wario Stadium|1'57"284|+5.598|2020-09-16|
 |19|Dragon Driftway|1'46"454|+5.651|2020-09-17|
 |20|Rainbow Road|2'05"291|+5.666|2020-10-14|
-|21|GBA Mario Circuit|1'29"827|+5.679||
-|22|Super Bell Subway|1'46"772|+5.719|2020-09-12|
-|23|3DS Piranha Plant Slide|2'05"643|+5.728|2020-10-09|
-|24|Animal Crossing|1'43"210|+5.733|2020-10-29|
-|25|Electrodrome|2'02"451|+5.742|2020-10-29|
-|26|DS Cheep Cheep Beach|1'54"136|+5.743||
-|27|Twisted Mansion|2'00"667|+5.796|2020-08-26|
-|28|DS Tick-Tock Clock|1'49"638|+5.888|2020-10-14|
-|29|3DS DK Jungle|2'07"308|+5.967|2020-10-28|
-|30|N64 Royal Raceway|2'01"927|+5.968|2020-10-29|
-|31|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
-|32|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
-|33|SNES Donut Plains 3|1'19"904|+6.016|2020-10-20|
-|34|Mario Kart Stadium|1'41"728|+6.140|2020-10-31|
-|35|GCN Sherbet Land|1'54"016|+6.157|2020-10-17|
-|36|Ice Ice Outpost|1'52"864|+6.222|2020-11-02|
-|37|GBA Ribbon Road|1'52"057|+6.226|2020-10-05|
-|38|Cloudtop Cruise|2'06"851|+6.320|2020-11-07|
+|21|Cloudtop Cruise|2'06"210|+5.679|2020-11-07|
+|22|GBA Mario Circuit|1'29"827|+5.679||
+|23|Super Bell Subway|1'46"772|+5.719|2020-09-12|
+|24|3DS Piranha Plant Slide|2'05"643|+5.728|2020-10-09|
+|25|Animal Crossing|1'43"210|+5.733|2020-10-29|
+|26|Electrodrome|2'02"451|+5.742|2020-10-29|
+|27|DS Cheep Cheep Beach|1'54"136|+5.743||
+|28|Twisted Mansion|2'00"667|+5.796|2020-08-26|
+|29|DS Tick-Tock Clock|1'49"638|+5.888|2020-10-14|
+|30|3DS DK Jungle|2'07"308|+5.967|2020-10-28|
+|31|N64 Royal Raceway|2'01"927|+5.968|2020-10-29|
+|32|Thwomp Ruins|1'56"917|+5.978|2020-08-24|
+|33|SNES Rainbow Road|1'32"484|+5.989|2020-09-07|
+|34|SNES Donut Plains 3|1'19"904|+6.016|2020-10-20|
+|35|Mario Kart Stadium|1'41"728|+6.140|2020-10-31|
+|36|GCN Sherbet Land|1'54"016|+6.157|2020-10-17|
+|37|Ice Ice Outpost|1'52"864|+6.222|2020-11-02|
+|38|GBA Ribbon Road|1'52"057|+6.226|2020-10-05|
 |39|Wii Grumble Volcano|2'00"841|+6.457|2020-11-03|
 |40|GCN Yoshi Circuit|1'49"635|+6.492|2020-10-20|
 |41|Bone-Dry Dunes|1'54"909|+6.622|2020-10-17|
