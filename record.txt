@@ -10,7 +10,7 @@ Sunshine Airport: 2'02"984: 2020-10-28
 Dolphin Shoals: 2'02"034: 2020-10-20
 Electrodrome: 2'02"451: 2020-10-29
 Mount Wario: 1'47"833: 2020-10-29
-Cloudtop Cruise: 2'07"417: 2020-10-12
+Cloudtop Cruise: 2'06"851: 2020-11-07
 Bone-Dry Dunes: 1'54"909: 2020-10-17
 Bowser's Castle: 2'04"991: 2020-11-04
 Rainbow Road: 2'05"291: 2020-10-14
