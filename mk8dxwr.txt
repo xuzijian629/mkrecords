@@ -6,7 +6,7 @@ Mario Circuit: 1'45"736
 Toad Harbor: 2'03"218
 Twisted Mansion: 1'54"816
 Shy Guy Falls: 1'56"451
-Sunshine Airport: 1'58"610
+Sunshine Airport: 1'58"569
 Dolphin Shoals: 1'55"320
 Electrodrome: 1'56"709
 Mount Wario: 1'42"450
@@ -19,7 +19,7 @@ GBA Mario Circuit: 1'24"148
 DS Cheep Cheep Beach: 1'48"393
 N64 Toad's Turnpike: 1'46"373
 GCN Dry Dry Desert: 1'53"979
-SNES Donut Plains 3: 1'13"888
+SNES Donut Plains 3: 1'13"680
 N64 Royal Raceway: 1'55"959
 3DS DK Jungle: 2'01"341
 DS Wario Stadium: 1'51"686
@@ -30,7 +30,7 @@ DS Tick-Tock Clock: 1'43"750
 3DS Piranha Plant Slide: 1'59"915
 Wii Grumble Volcano: 1'54"384
 N64 Rainbow Road: 1'20"147
-GCN Yoshi Circuit: 1'43"143
+GCN Yoshi Circuit: 1'42"992
 Excitebike Arena: 1'40"965
 Dragon Driftway: 1'40"803
 Mute City: 1'51"278
@@ -39,10 +39,10 @@ SNES Rainbow Road: 1'26"495
 Ice Ice Outpost: 1'46"642
 Hyrule Circuit: 1'47"931
 GCN Baby Park: 1'02"238
-GBA Cheese Land: 1'44"301
+GBA Cheese Land: 1'43"442
 Wild Woods: 1'47"440
 Animal Crossing: 1'37"477
 3DS Neo Bowser City: 1'43"143
 GBA Ribbon Road: 1'45"831
-Super Bell Subway: 1'41"053
+Super Bell Subway: 1'40"888
 Big Blue: 1'23"683
