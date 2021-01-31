@@ -3,13 +3,13 @@
 ||コース名|自己記録|WRとの差|日付
 |--|--|--|--|--|
 |1|N64 Rainbow Road|1'22"841|+2.694|2020-11-02|
-|2|Big Blue|1'26"550|+2.900|2020-11-03|
+|2|Big Blue|1'26"550|+2.934|2020-11-03|
 |3|Mario Circuit|1'49"531|+3.795||
 |4|GCN Baby Park|1'06"130|+3.892|2020-10-21|
 |5|N64 Toad's Turnpike|1'50"348|+3.975|2020-09-08|
 |6|Wii Moo Moo Meadows|1'28"979|+4.183|2020-10-31|
 |7|Sunshine Airport|2'02"984|+4.415|2020-10-28|
-|8|Sweet Sweet Canyon|1'53"760|+4.562|2020-12-09|
+|8|Sweet Sweet Canyon|1'53"760|+4.692|2020-12-09|
 |9|Hyrule Circuit|1'52"747|+4.816|2020-10-29|
 |10|N64 Yoshi Valley|2'03"905|+4.945|2020-08-24|
 
@@ -19,6 +19,6 @@
 
 全コース7秒落ち: 2020-10-20
 
-Last updated: 2020-12-09
+Last updated: 2021-01-31
 
 [全記録](https://github.com/xuzijian629/xuzijian629/blob/master/ALL.md)
